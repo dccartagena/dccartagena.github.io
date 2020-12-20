@@ -1,0 +1,11 @@
+---
+title: "Glycemic Monitoring in Critical Care using Nonlinear State Estimators"
+collection: publications
+permalink: /publication/2017-Glycemic-Monitoring
+excerpt: 'As it is already known, patients under physiological stress, i.e., during a stay at an intensive care unit (ICU), often experience stress-induced hyperglycemia and insulin resistance even if they are not diagnosed with diabetes. In order to perform tight glycemic control (TGC) either by human intervention or by means of an automatic insulin infusion system, a proper monitoring system of the critical variables needs to be available.'
+date: 2017-07-01
+venue: 'IFAC-PapersOnLine'
+paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S2405896317307127'
+citation: 'E. Aguirre-Zapata, J. Cardenas-Cartagena, and J. Garcia-Tirado, “Glycemic Monitoring in Critical Care using Nonlinear State Estimators,” IFAC-PapersOnLine, vol. 50, no. 1, pp. 4430–4435, Jul. 2017, doi: 10.1016/j.ifacol.2017.08.369.'
+---
+As it is already known, patients under physiological stress, i.e., during a stay at an intensive care unit (ICU), often experience stress-induced hyperglycemia and insulin resistance even if they are not diagnosed with diabetes. In order to perform tight glycemic control (TGC) either by human intervention or by means of an automatic insulin infusion system, a proper monitoring system of the critical variables needs to be available. In this paper, the problem of estimating the state of the glucose-insulin system for a critically ill patient is investigated. Unlike most contributions, the interstitial glucose is assumed to be continuously measured by a continuous glucose monitor (CGM) instead of plasma glucose which is not usually available in most clinical facilities. Moreover, the measurement noise is characterized by a non-Gaussian noise as is suggested in recent studies. Three nonlinear filters are investigated, the Extended Kalman Filter (EKF), the Unscented Kalman Filter (UKF), and the Particle Filter (PF), under three different scenarios.

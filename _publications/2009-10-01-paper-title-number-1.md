@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Cocreation laboratory in health: Materialization tool for innovation process in Colombian public hospitals"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2017-cocreation
+excerpt: "Although there is a considerable investment in research for overall health, only the 1% of Colombian hospitals and clinical institutions, known as IPS, can afford innovation processes, this phenomenon implies a short generation of intellectual assets in health-care system in Colombia is shown."
+date: 2017-10-01
+venue: '2017 Congreso Internacional de Innovacion y Tendencias en Ingenieria (CONIITI)'
+paperurl: 'https://ieeexplore.ieee.org/document/8273330/'
+citation: 'S. Torres-Montoya, J. Cardenas-Cartagena, A. Arenas-Lopez, A. Quintero-Posada, and R. Torres-Villa, “Cocreation laboratory in health: Materialization tool for innovation process in Colombian public hospitals,” in 2017 Congreso Internacional de Innovacion y Tendencias en Ingenieria (CONIITI), Bogota, Oct. 2017, pp. 1–6, doi: 10.1109/CONIITI.2017.8273330.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Although there is a considerable investment in research for overall health, only the 1% of Colombian hospitals and clinical institutions, known as IPS, can afford innovation processes, this phenomenon implies a short generation of intellectual assets in health-care system in Colombia is shown. To standardize innovation process, healthcare organizations must identify their capabilities to implement research, innovation and development activities; The General Hospital of Medellin (HGM) evaluated its own innovation capacities between 2010 and 2015, which resulted in the necessity to convert its strategic plan into innovative products and services. As result of this characterization, the HGM in alliance with the universities CES and EIA specialized in life science and engineering respectively, built an innovation strategy known as cocreation laboratory in health, which is understood as the place where engineering professionals, healthcare staff, and the community join forces to develop solutions prototypes to face in home hospital problems. The main objective of this strategy is to generate added value and increase the clinical and administrative hospital's capacities, in order to gain quality in the patient's attention..
