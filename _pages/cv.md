@@ -35,8 +35,11 @@ Work experience
   
 Skills
 ======
-* Programming Languages:
-* Libraries:
+* **Industry Knowledge:** Research, Engineering Design, Agile methodologies, Design Thinking, Co-Creation
+* **Programming Languages:** Python, Matlab, C/C++
+* **Relevant libraries:** TensorFlow, Keras, Horovod, Pandas, Numpy, Matplotlib
+* **Coding tools:** Version control (GIT/GitHub), Docker, LaTeX, Web design
+* **Prototyping tools:** 3D printing, Inventor Fusion, Siemens Solid Edge, Altium, Arduino, PIC Microcontroller
 
 Grants
 ======
@@ -80,3 +83,9 @@ Service and leadership
   - Develop a workshop related to 3D printing technology and CAD modelling to prototype medical devices, with a target audience of young people between 13 and 18 years old.
 * **Student mentor**, *Parque Explora*, Colombia, 2016
   - Support a school research project for a local academic event, whose objective was the development of a robotic manipulator prototype for use in chemical laboratories.
+
+Language
+======
+* **Spanish:** Native proficiency
+* **English:** Professional working proficiency
+* **Norwegian:** Elementary proficiency

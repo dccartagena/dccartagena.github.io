@@ -14,4 +14,4 @@ Likewise, my motivation moves towards **innovation and co-creation** processes t
 
 ## News
 
-TODO ADD NEWS FEED
+* News TBA

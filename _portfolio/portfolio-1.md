@@ -1,6 +1,6 @@
 ---
 title: "Safe Deep Reinforcement Learning"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: My Ph.D. project aims to explore novel techniques in **Safe Deep Reinforcement Learning** for adaptive control to prevent *fatal states* in large-scale systems where some control actions may end up in undesired consequences # "<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
