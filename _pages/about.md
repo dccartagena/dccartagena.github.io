@@ -14,4 +14,6 @@ Likewise, my motivation moves towards **innovation and co-creation** processes t
 
 ## News
 
+20-02-2021 | Check out my talk in the [Forsker Grand Prix - Agder 2020](https://dccartagena.github.io/talks/2020-fgp)
+-----------|-------------------------------
 29-12-2020 | My personal webpage is online!
