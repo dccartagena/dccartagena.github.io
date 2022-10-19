@@ -55,6 +55,8 @@ Grants
 
 Awards
 ======
+* **Finalist at the Forsker Grand Prix**, *University of Agder*, Norway, 2020
+  - Finalist in the science popularisation contest Forsker Grand Prix with my talk "Helping machines to make safe actions."
 * **Orchid gold award**, *Medellin Council*, Colombia, 2014
   - The Medellin Council awarded my robotics team with the Orchid gold award for our developments in mobile robots for international competitions between universities.
 * **Champion at RoboRave International**, *RoboRave*, USA, 2014
