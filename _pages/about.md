@@ -13,8 +13,8 @@ I am working on **Safe Deep Reinforcement Learning** techniques for food product
 Likewise, my motivation moves towards **innovation and co-creation** processes that involve knowledge transfer between universities and research centres with the industry and society. Outside academia, I enjoy analyzing geopolitics and finance news and develop investment strategies based on signal processing techniques. I support voluntary causes related to education and science dissemination to engage young people in research.
 
 ## News
+* 18-08-2022 - My paper "Risk-Aware Particle Filtering For State Estimation In Recirculating Aquaculture Systems" was accepted in the <a href="https://www.asilomarsscconf.org/" target="_blank">The Asilomar Conference on Signals, Systems, and Computers</a> in Pacific Grove, CA, USA.
 * 30-11-2021 - My paper "Forecasting Aquaponic Systems Behaviour With Recurrent Neural Networks Models" was accepted in the <a href="https://www.nldl.org/" target="_blank">Northern Light Deep Learning 2022 conference</a> in Tromso, Norway.
 * 17-11-2021 - I became a volunteer in the <a href="https://www.acimedellin.org/resultados-conexion-sin-fronteras/" target="_blank">Conexion sin Fronteras</a> program by the Agency for Cooperation and Investment of Medellin
 * 20-02-2021 - Check out my talk in the [Forsker Grand Prix - Agder 2020](https://dccartagena.github.io/talks/2020-fgp)
-* 29-12-2020 - My personal webpage is online!
-
+<!-- * 29-12-2020 - My personal webpage is online! -->

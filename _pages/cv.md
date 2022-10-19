@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D in Engineering and Science**, *University of Agder*, Norway, 2022 (expected)
+* **Ph.D in Engineering and Science**, *University of Agder*, Norway, 2023 (expected)
   - *Project:* Safe Deep Reinforcement Learning Techniques for Data-Driven Adaptive Control
   - *Selected courses:* Optimization, Deep Learning, Statistical Signal Processing.
 * **M.Sc. in Mathematics and Statistics**, *Queen's University*, Canada, 2019
@@ -23,20 +23,25 @@ Education
 
 Work experience
 ======
+* **Teaching Assistant**, *Wisenet Center - University of Agder*, Norway, 2021-2022
+  - Supported the design of the Ph.D. course in Deep Reinforcement Learning.
+  - Taught lectures in advanced reinforcement learning algorithms to doctoral students.
+* **Teaching Assistant**, *Queen’s University*, Canada, 2018-2019
+  - Tutored in Linear Algebra, Statistics, and Differential Equations courses.
 * **Project Assistant**, *General Hospital of Medellin*, Colombia, 2016 - 2017
-  - Design a MakerSpace in the General Hospital of Medellin, aiming to develop appropriate technology for healthcare institutions with rapid prototyping tools and design thinking methodology.
-  - Technical advisor for the Hospital's innovation office and support the 2017-2019 planning.
-  - Develop learning activities about co-creation methodologies for healthcare professionals and administrative staff.
-  - Prototype two devices related to hand-washing monitoring and sterilization process for intra-hospital use by utilizing the proposed co-creation methodology in the MakerSpace.
-  - Support student projects in the summer course about innovation in medical devices for bachelor students in Biomedical engineering.
+  - Designed a MakerSpace for healthcare-related projects inside the Hospital.
+  - Developed learning activities about co-creation methodologies for healthcare professionals and administrative staff.
+  - Prototyped two devices related to hand-washing monitoring and sterilization process for intra-hospital use by utilizing the proposed co-creation methodology in the MakerSpace.
+  - Supervised biomedical engineering students in projects about innovation in medical devices.
 
 * **Student Intern**, *RWTH Aachen University*, Germany, Winter 2015
-  - Verify a Bayesian inversion approach via Monte Carlo methods to get the aerosol particle's size distribution using measurements of laser beam intensities passing through the experimental environment.
+  - Designed algorithms to compute the size of aerosol particles from laser beam intensities. 
+  - Tested a Bayesian inversion method to estimate the size of aerosol particles in a controlled environment.
   
 Skills
 ======
 * **Industry Knowledge:** Research, Engineering Design, Agile methodologies, Design Thinking, Co-Creation
-* **Programming Languages:** Python, Matlab, C/C++
+* **Programming Languages:** Python, Matlab, SQL
 * **Relevant libraries:** TensorFlow, Keras, Horovod, Pandas, Numpy, Matplotlib
 * **Coding tools:** Version control (GIT/GitHub), Docker, LaTeX, Web design
 * **Prototyping tools:** 3D printing, Inventor Fusion, Siemens Solid Edge, Altium, Arduino, PIC Microcontroller
@@ -77,6 +82,8 @@ Talks
   
 Service and leadership
 ======
+* **Academic and skills development coordinator**, UiAdoc, Norway, 2021-2022
+  - Organized events to support the professional development of doctoral researchers in Agder.
 * **Community manager**, *IEEE Colombia*, Colombia, 2019
   - Community manager in charge of the social media accounts to promote the 4th IEEE Colombian Conference on Automatic Control.
 * **Student mentor**, *Clubes de Ciencia Colombia*, Colombia, 2017
@@ -88,4 +95,4 @@ Language
 ======
 * **Spanish:** Native proficiency
 * **English:** Professional working proficiency
-* **Norwegian:** Elementary proficiency
+* **Norwegian:** Limited working proficiency
