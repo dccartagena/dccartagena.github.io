@@ -1,7 +1,7 @@
 ---
 layout: single
 date: 2020-12-29
-permalink: posts/2020/12/blog-post-1/
+permalink: posts/2020/12/Coexisting/
 title:  "Coexisting With A Paperclip Maximizer"
 ---
 
