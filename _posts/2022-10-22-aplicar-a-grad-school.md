@@ -9,14 +9,10 @@ En este post, quisiera dejar plasmado algunas enseñanzas que me han dejado esto
 
 ***Keywords*** --- grad school, Colombia, Spanish.
 
-Reflexión Inicial
-============================================
+## Reflexión Inicial
 El proceso de aplicar a maestrías y doctorados puede llegar a ser bastante complejo, pues muy pocas personas están interesadas en tomar este camino, y por tanto no hay mucha información disponible. No me malinterpreten, pero salir del país a hacer un posgrado ha sido una de las mejores decisiones de mi vida, pero también ha sido arduo desde una perspectiva personal, familiar y profesional. Cómo se diría en una de las canciones de Molotov: "Podrás imaginarte desde afuera. Ser un mexicano cruzando la frontera. Pensando en tu familia mientras que pasas. Dejando todo lo que conoces atrás." Y es que a menos de que tengas familia o conocidos al otro lado, vas a tener un revolcón en tu vida y te aseguro de que sera uno de los retos mas grandes a los que te habrás enfrentado. Quizás conocerás la soledad desde un nuevo punto de vista; espero no suceda, pero posiblemente serás víctima de xenofobia o racismo; y para colmo, esta es solo la punta del iceberg que significa ser un colombiano en el exterior. Además, por el lado académico, debo decir que adaptarse a un nuevo sistema educativo no es trivial. Por ejemplo, los cursos canadienses o alemanes son basados en investigación, los cursos en noruega son basados en proyectos y casos. No es que la academia colombiana sea ajena a estos modelos educativos. Pero sí estamos acostumbrados a esquema de clases magistrales. Así mismo, si esta es la primera vez que atiendes una clase de matemática avanzada en otro idioma, la experiencia no sera divertida. Aunque, paradójicamente, hoy me siento mas cómodo dictando una clase de probabilidad en ingles que en español. La vida nos da sorpresas.
 
 Sabrás disculparme por mi petulancia al empezar este post mencionando el lado difícil de aplicar a un posgrado en el exterior, y recalco que esta fue una de las mejores decisiones de mi vida. A lo largo de estos años, he tenido la oportunidad de conversar y trabajar con los mejores investigadores en mi campo; también, gozo de la tranquilidad de vivir en un país al que llamo hogar; y mientras escribo este post, estoy buscando oportunidades laborales de las que nunca me imagine ser capaz de aplicar. Puedo decir con confianza que estoy llegando a la cúspide de mi joven carrera y ando ansioso de encontrar mas retos. Hecha esta breve reflexion, empecemos con los consejos.
-
-Aplicar al Grad School
-============================================
 
 ## Decidir el programa de posgrado
 El proceso para aplicar a un posgrado en el exterior dura, en el mejor de los casos, aproximadamente dos años desde el momento en el que decides aplicar hasta que llegas a tu primera clase. Ten en cuenta que muchos de los programas empiezan entre Agosto y Septiembre. Y personalmente, si debes hacer cursos, no te recomiendo empezar en Enero, pues muchos de los cursos introductorios se dan en el semestre de otoño. Por otra parte, existen varios tipos de posgrados:
@@ -87,6 +83,12 @@ Por otra parte, como colombianos existen algunas becas a las que puedes acceder.
     - Estudios: Maestrias
     - Periodo de aplicación: aproximadamente entre marzo y abril
     - Mas información: [eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en](https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en)
+
+* Jobbnorge - Buscador de doctorados en Noruega
+    - Pais: Noruega
+    - Estudios: Doctorado
+    - Periodo de aplicacion: durante todo el año
+    - Mas información: [jobbnorge.no](https://www.jobbnorge.no/search#1)
 
 En mi opinion, las becas y finanzas es la parte mas estresante e incierta del proceso, y es por ello que te recomiendo tener una clara comunicación con la universidad y tu potencial supervisor.
 
