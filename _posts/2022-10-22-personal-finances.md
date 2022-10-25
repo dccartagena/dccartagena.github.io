@@ -29,6 +29,13 @@ Let me start this section with the following thought: I have lost a lot of money
 
 My first significant investment was in healthcare, electronics, and software companies. I hit the jackpot with the last two; however, my strategy with the healthcare sector was naive. I thought that vaccine manufacturers would make a lot of money during a global pandemic. Still, I entered my position too early and left it too fast. Let me explain, my position started when the Covid-vaccine was in early research, and most of the investments in those companies were going to that particular purpose. Clearly, the companies did not get a return from the vaccine until they started to sell it to the world. And that is my second mistake, I left my position before the vaccine was approved. Worth the lesson, as I learned that investing requires patience and attention to small details.
 
+<div style="text-align: center;">
+    <img src="/images/finance_1.png"
+        alt="Healthcare fund performance"
+        style="display: block; margin-left: auto; margin-right: auto;" />
+    <figcaption>Healthcare fund performance between 2020 and 2022. Notice the peak between April 2020 then a dip until August 2021. Source nordnet.no</figcaption>
+</div>
+
 As of today, I follow a more uncomplicated investing strategy: put my money in strong funds and stocks of companies with a broad market. And from time to time, I invest in highly volatile stocks from disruptive companies. More or less, my portfolio is 50% in funds related to the developed-countries market, 30% in funds that invest in the nordic market, 15% in individual stocks from nordic companies, and 5% in high-risk stocks from nordic companies. In relation with the stocks, I invest in electronics, real estate, robotics, car manufacturing, health care, and energy companies. In the future, I want to increase my liquidity and experiment with low-risk/low-return financial instruments that may give me tax exemptions. e.g., the Norwegian BSU account and private pension funds. 
 
 ## Some final thoughts
