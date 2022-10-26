@@ -31,10 +31,13 @@ Talk about the freezing rain
 </div>
 
 ## The lack of vitamin D
+Talk about winter depression, 
 
 ## Clothes
+Talk about layers, winter jacket and shoes, spikes, and general clothing like scarf and gloves.
 
 ## Winter sports
+Let me start this section with a simple statement, I hate ski. It is one of the scariest sports I have ever tried in my life.
 
 ## Some final thoughts
 TBA
