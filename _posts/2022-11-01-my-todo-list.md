@@ -1,11 +1,11 @@
 ---
 layout: single
 date: 2022-10-26
-permalink: posts/2022/10/embrace-the-winter/
+permalink: posts/2022/10/todo-list/
 title:  "My to-do list"
 ---
 
-Let me share with you my to-do list for the next decades. Some activities are charitable, others are laughable, and others are random. We will see how many are completed in the future. Last update: 27. October '23.
+Let me share with you my to-do list for the next decades. Some activities are charitable, others are laughable, and others are random. We will see how many are completed in the future. Last update: 27. October '22.
 
 ***Keywords*** --- to-do list, goals, personal deveolpemnt.
 
@@ -49,11 +49,13 @@ Let me share with you my to-do list for the next decades. Some activities are ch
 - [ ] Become an elder Lord in Elden Ring
 - [ ] Meet Sebastian Thrun
 - [ ] Meet Juanes
+- [ ] Get married with my crush
 - [ ] Read the final chapter in One Piece
 - [ ] Assist to a Rammstein concert
 - [ ] Learn how to make home-made mozzarella cheese
 - [ ] Eat a Sacher cake in Vienna
 - [ ] Drive a car in Lofoten
+- [ ] Become the parental figure of someone
 - [ ] Make a trip through Europe by car
 - [ ] Become a voice actor
 
