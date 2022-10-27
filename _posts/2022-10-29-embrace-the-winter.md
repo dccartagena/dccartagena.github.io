@@ -7,7 +7,7 @@ title:  "Embrace the winter as someone from the tropics"
 
 I come from Medellin, Colombia, a well-known city for flowers, coffee, and fantastic weather. The average temperature in Medellin is between 17°C to 28°C. Furthermore, there are two seasons in Colombia: dry and rainy. During the dry season, you may experience a shiny and clear sky daily. However, when it is the rainy season, you may expect a swimming pool the size of a city and blocks of ice falling from the sky. The tropical weather is terrific, don't you think so? In this post, I want to talk about the daily life of a tropical-country guy during the winter season.
 
-***Keywords*** --- personal finances, winter, weather, health.
+***Keywords*** --- winter, weather, health.
 
 ## From the eternal spring city to the Canadian winter
 Notice that I have not mentioned snow anywhere yet. Indeed, I tasted snow for the first time when I visited El Nevado del Ruiz in Caldas, Colombia, at 10 years old. And I experience a complete season below 0°C during my internship in Germany in the 2015 winter. The first winter is always interesting to experience; it is as white as in the Christmas movies. But for someone who does not know about winter clothes or living with snow, there were several problems on the table. For example, my shoes were not waterproof nor large enough to avoid snow getting into my feet. However, I survived and enjoyed the experience. The real challenge began in Canada. Oh, Canada! I love it, but the Canadian winter is harsh. 
@@ -75,6 +75,8 @@ Now, the next question arises, what about driving or biking when the streets are
 
 ## Winter sports
 Let me start this section with a simple statement, I hate ski. It is one of the scariest activities I have ever tried in my life, and says the guy who has jumped from bridges and flew in paragliding. Sorry to my fellow Norwegians about such statement, becuase ski is the national sport in the country.
+
+## Heating inside houses
 
 ## Some final thoughts
 A close friend once told me "Never eat yellow snow," and I keep those wise words in my heart. In addition, never lick a piece of metal during winter, I tried with a transit sign for the meme, and it was painful.
