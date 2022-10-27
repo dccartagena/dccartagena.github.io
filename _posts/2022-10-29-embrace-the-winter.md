@@ -21,6 +21,22 @@ Notice that I have not mentioned snow anywhere yet. Indeed, I tasted snow for th
 
 My first experience with the Canadian winter was in January 1st, 2018. The moment I arrived in the Toronto's airport the breeze touched my nose and damn! It was cold.  
 
+## The lack of vitamin D
+Talk about winter depression and shorter days.
+
+<div style="text-align: center;">
+    <img src="/images/winter_2.jpg"
+        alt="Winter in Norway"
+        style="display: block; margin-left: auto; margin-right: auto;" />
+    <figcaption>Winter in Tromsø, Norway</figcaption>
+</div>
+
+## Clothes
+Talk about layers, winter jacket and shoes, spikes, and general clothing like scarf and gloves.
+
+## Winter sports
+Let me start this section with a simple statement, I hate ski. It is one of the scariest sports I have ever tried in my life.
+
 Talk about the freezing rain
 
 <div>
@@ -30,24 +46,8 @@ Talk about the freezing rain
     <figcaption><center>Example of a walking pattern in a day of freezing rain</center></figcaption>
 </div>
 
-## The lack of vitamin D
-Talk about winter depression, 
-
-## Clothes
-Talk about layers, winter jacket and shoes, spikes, and general clothing like scarf and gloves.
-
-## Winter sports
-Let me start this section with a simple statement, I hate ski. It is one of the scariest sports I have ever tried in my life.
-
 ## Some final thoughts
 TBA
-
-<div style="text-align: center;">
-    <img src="/images/winter_2.jpg"
-        alt="Winter in Norway"
-        style="display: block; margin-left: auto; margin-right: auto;" />
-    <figcaption>Winter in Tromsø, Norway</figcaption>
-</div>
 
 
 <sub>*Disclaimer: This post represents my personal opinion. I am not responsible for any content on external sites.</sub>
