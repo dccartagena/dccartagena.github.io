@@ -29,7 +29,7 @@ El primer paso en este proceso es escoger los programas de posgrado a los que qu
 
 En las siguientes paginas puedes encontrar maestrias y doctorados que te pueden interesar: 
 
-- euraxess: [euraxess.ec.europa.eu/jobs/search](https://euraxess.ec.europa.eu/jobs/search)
+- euraxess: [euraxess.ec.europa.eu/...](https://euraxess.ec.europa.eu/jobs/search)
 - State Space: [state-space.ieeecss.org](https://state-space.ieeecss.org/all)
 - Linkedin: [linkedin.com](https://www.linkedin.com/)
 - Researchgate: [researchgate.net](https://www.researchgate.net/)
@@ -38,31 +38,31 @@ En las siguientes paginas puedes encontrar maestrias y doctorados que te pueden 
 
 También hay organizaciones que te pueden ayudar de forma gratuita en tu aplicación a un posgrado:
 
-- Semillero de talentos de Colfuturo: [colfuturo.org/programas/semillero-de-talentos](https://www.colfuturo.org/programas/semillero-de-talentos/informacion-general)
+- Semillero de talentos de Colfuturo: [colfuturo.org/...](https://www.colfuturo.org/programas/semillero-de-talentos/informacion-general)
 
 ## Sobre el examen de ingles
 En paralelo, deberías prepararte para el examen de ingles. La decision entre TOEFL o IELTS se basa en donde quieres estudiar. Si planeas ir a Estados Unidos, es recomendable hacer el TOEFL, mientras que para los demás países es preferible el IELTS. No te tomes a la ligera estos exámenes, pues no te examinan tus habilidades de hablar, escribir, leer y escuchar ingles, mas bien diría que te evalúan tu competencia para hacer un examen en ingles. Para que te hagas una idea, es algo así como resolver una prueba ICFES o Saber; pues a la hora de la verdad, no necesariamente quien tenga las mejores notas en el colegio va a sacar buenos puntajes en el examen; pero alguien que hizo un preicfes para aprender como resolver este examen puede obtener un puntaje decente. Hay muchos recursos que puedes utilizar para hacer el IELTS, a continuación te mostrare algunos:
 
-* IELTS Academic Test Preparation - EDx: [edx.org/course/ielts-academic-test-preparation](https://www.edx.org/course/ielts-academic-test-preparation)
-* IELTS practice test - IELTS: [ielts.org/usa/ielts-practice-test](https://www.ielts.org/usa/ielts-practice-test)
+* IELTS Academic Test Preparation - EDx: [edx.org/course/...](https://www.edx.org/course/ielts-academic-test-preparation)
+* IELTS practice test - IELTS: [ielts.org/...](https://www.ielts.org/usa/ielts-practice-test)
 
 Así mismo, YouTube es tu mejor amigo para practicar el examen, pues hay muchos videos sobre el tema. Ten en cuenta que generalmente los puntajes requeridos para la universidades son: 
 
 * TOEFL: al menos 550 para el paper-based test, 213 para el computer-based test, y 80 para el internet-based test.
 * IELTS: al menos 6.0
 
-Estos puntajes pueden cambiar de acuerdo al país y universidad. Las universidades anglosajonas son más exigentes en este punto. Por lo que revisa con cuidado los requisitos de tus programas objetivo. Me gustaría recalcar que estos puntajes son lo mínimo y **gran parte de tu admisión depende de este examen**. Por ultimo, para tomar el IELTS, solo se puede agendar la cita del examen desde la pagina oficial: [ielts.org/for-test-takers/book-a-test](https://www.ielts.org/for-test-takers/book-a-test). Y el costo a 2022 es de $780.000, por lo que prepara tu bolsillo, porque los gastos apenas empiezan. Por ultimo, el IELTS tiene una validez de 2 años (Puedes validar esta información en el siguiente enlace: [britishcouncil.org.tr/en/exam/ielts/faq](https://www.britishcouncil.org.tr/en/exam/ielts/faq))
+Estos puntajes pueden cambiar de acuerdo al país y universidad. Las universidades anglosajonas son más exigentes en este punto. Por lo que revisa con cuidado los requisitos de tus programas objetivo. Me gustaría recalcar que estos puntajes son lo mínimo y **gran parte de tu admisión depende de este examen**. Por ultimo, para tomar el IELTS, solo se puede agendar la cita del examen desde la pagina oficial: [ielts.org/...](https://www.ielts.org/for-test-takers/book-a-test). Y el costo a 2022 es de $780.000, por lo que prepara tu bolsillo, porque los gastos apenas empiezan. Por ultimo, el IELTS tiene una validez de 2 años (Puedes validar esta información en el siguiente enlace: [britishcouncil.org.tr/...](https://www.britishcouncil.org.tr/en/exam/ielts/faq))
 
 ## Traducciones y apostillas
-Otra actividad que puedes ir haciendo en paralelo, y fue la que más tiempo me tomo, es reunir la documentación necesaria para aplicar a la universidad. Cada universidad tiene sus propios requisitos, pero generalmente hay documentos comunes, por ejemplo, el diploma y acta de grado, calificaciones de tu carrera, descripción de los cursos que tomaste en tu carrera, hoja de vida y carta de motivación. Y para tu vida de inmigrante, saca un registro civil. Todos los documentos deben estar en ingles, y los documentos expedidos por entidades publicas, e.g. universidad, registraduría, o notarias, deben ser traducidos por un traductor oficial, legalizados y apostillados. Lastimosamente, la Cancillería ya no ofrece una lista publica de los traductores oficiales registrados en el país. Así que, antes de traducir cualquier documento, solicita las credenciales del traductor y validamos ante la cancillería. Los diplomas y certificados de la universidad deben ser legalizados por el ministerio de educación. Ten en cuenta que primero se debe legalizar estos documentos antes de apostillarlos. Para mayor información sobre este trámite [legalizaciones.mineducacion.gov.co](https://www.legalizaciones.mineducacion.gov.co/legalizacion/index.jsp). La apostilla es un sello para certificar que tus documentos son oficiales ante instituciones no colombianas; algunos paises como Canadá no reconocen la apostilla, por lo que vale la pena preguntar a las universidades si es necesario este trámite. Para apostillar los documentos, sigue las instrucciones del siguiente enlace [cancilleria.gov.co/tramites_servicios/apostilla_legalizacion_en_linea](https://www.cancilleria.gov.co/tramites_servicios/apostilla_legalizacion_en_linea). Es a remarcar que este punto es bastante costoso y toma mucho tiempo, pues depende bastante de la disponibilidad del traductor que contrates. Para que te hagas una idea, yo invertí aproximadamente $600.000 por traducciones, legalizaciones y apostillas en el 2017, y es probable que esa cifra sea mucho mayor hoy en día.
+Otra actividad que puedes ir haciendo en paralelo, y fue la que más tiempo me tomo, es reunir la documentación necesaria para aplicar a la universidad. Cada universidad tiene sus propios requisitos, pero generalmente hay documentos comunes, por ejemplo, el diploma y acta de grado, calificaciones de tu carrera, descripción de los cursos que tomaste en tu carrera, hoja de vida y carta de motivación. Y para tu vida de inmigrante, saca un registro civil. Todos los documentos deben estar en ingles, y los documentos expedidos por entidades publicas, e.g. universidad, registraduría, o notarias, deben ser traducidos por un traductor oficial, legalizados y apostillados. Lastimosamente, la Cancillería ya no ofrece una lista publica de los traductores oficiales registrados en el país. Así que, antes de traducir cualquier documento, solicita las credenciales del traductor y validamos ante la cancillería. Los diplomas y certificados de la universidad deben ser legalizados por el ministerio de educación. Ten en cuenta que primero se debe legalizar estos documentos antes de apostillarlos. Para mayor información sobre este trámite [legalizaciones.mineducacion.gov.co/...](https://www.legalizaciones.mineducacion.gov.co/legalizacion/index.jsp). La apostilla es un sello para certificar que tus documentos son oficiales ante instituciones no colombianas; algunos paises como Canadá no reconocen la apostilla, por lo que vale la pena preguntar a las universidades si es necesario este trámite. Para apostillar los documentos, sigue las instrucciones del siguiente enlace [cancilleria.gov.co/...](https://www.cancilleria.gov.co/tramites_servicios/apostilla_legalizacion_en_linea). Es a remarcar que este punto es bastante costoso y toma mucho tiempo, pues depende bastante de la disponibilidad del traductor que contrates. Para que te hagas una idea, yo invertí aproximadamente $600.000 por traducciones, legalizaciones y apostillas en el 2017, y es probable que esa cifra sea mucho mayor hoy en día.
 
 ## La hoja de vida y la carta de motivación
 En mi opinion, el internet le ha puesto mucho misterio a las hojas de vida y las cartas de motivación. Estos documentos deben ser concretos, cortos y responder las siguientes preguntas: porque eres un candidato ideal? porque te interesa ese programa de posgrado? que piensas hacer después de terminar el posgrado? y, porque te deberían admitir en ese programa? No son preguntas triviales, pero tampoco tienen mucho misterio. En la hoja de vida, describes tu experiencia profesional y académica, y también describes tus habilidades en tu campo de especialización. Mientras que en la carta de motivación, expresas tu interés sobre el programa de posgrado y expones de una forma mas extensa el porque tu perfil de estudiante encaja en el programa.
 
 Plantillas para hojas de vida:
 
-- Plantillas para LaTeX: [resumake.io/generator/templates](https://resumake.io/generator/templates) 
-- Plantilla para Europa: [europa.eu/europass/](https://europa.eu/europass/en/create-europass-cv)
+- Plantillas para LaTeX: [resumake.io/...](https://resumake.io/generator/templates) 
+- Plantilla para Europa: [europa.eu/...](https://europa.eu/europass/en/create-europass-cv)
 
 ## Contactando a profesores
 A partir de aquí, asumiré que ya tienes *varios* programas de posgrado en mente, te interesan programa basado en investigación, sea maestra o doctorado. El siguiente paso es enviar cold-emails a posibles supervisores mostrando tu interés de que ellos sean tu supervisor. En este punto, quizás estes tentado a usar plantillas, y aunque te recomiendo tener una estructura similar para los correos, de tal forma que sea fácil editarlos, también te dire que los remitentes saben cuando un correo es una plantilla. Intenta ser lo más especifico y atractivo posible en esos correos, pues un profesor puede recibir más de 100 correos diarios. El correo debe leerse en menos de 30 segundos, y en el mensaje debes presentarte y exponer el porque te gustaría que el fuera tu supervisor. Personalmente no recomiendo adjuntar archivos o incluir links en el mensaje, pues los filtros de spam pueden mandar tu correo a la basura directamente. Mas bien espera a que el profesor te responda pidiendo mas información sobre ti. La intención de estos correos es presentarte y empezar una posible relación estudiante-supervisor.  
@@ -76,19 +76,19 @@ Por otra parte, como colombianos existen algunas becas a las que puedes acceder.
     - Pais: Corea del Sur
     - Estudios: Maestria y doctorado
     - Periodo de aplicación: aproximadamente entre febrero y marzo
-    - Mas información: [studyinkorea.go.kr/en/sub/gks](https://www.studyinkorea.go.kr/en/sub/gks/allnew_invite.do)
+    - Mas información: [studyinkorea.go.kr/...](https://www.studyinkorea.go.kr/en/sub/gks/allnew_invite.do)
 
 * Erasmus Mundus Joint Masters
     - Pais: Varios países de Europa
     - Estudios: Maestrias
     - Periodo de aplicación: aproximadamente entre marzo y abril
-    - Mas información: [eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en](https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en)
+    - Mas información: [eacea.ec.europa.eu/...](https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en)
 
 * Jobbnorge - Buscador de doctorados en Noruega
     - Pais: Noruega
     - Estudios: Doctorado
     - Periodo de aplicación: durante todo el año
-    - Mas información: [jobbnorge.no](https://www.jobbnorge.no/search#1)
+    - Mas información: [jobbnorge.no/...](https://www.jobbnorge.no/search#1)
 
 En mi opinion, las becas y finanzas es la parte mas estresante e incierta del proceso, y es por ello que te recomiendo tener una clara comunicación con la universidad y tu potencial supervisor.
 

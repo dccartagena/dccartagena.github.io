@@ -55,10 +55,12 @@ Let me share with you my to-do list for the next decades. Some activities are ch
 - [ ] Learn how to make home-made mozzarella cheese
 - [ ] Eat a Sacher cake in Vienna
 - [ ] Drive a car in Lofoten
-- [ ] Become a parental figure of someone
+- [ ] Become a parental figure for someone
+- [ ] Visit Okinawa
 - [ ] Make a trip through Europe by car
 - [ ] Become a voice actor
 - [ ] Participate in a zombie walk
+- [ ] Visit Kathmandu
 
 ## Some final thoughts
 I will do my best to fulfill this list. Also, I will likely add more activities in the future as my personal goals are dynamic. So, stay tuned for further updates.

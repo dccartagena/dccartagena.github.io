@@ -52,7 +52,7 @@ My outfit during the first days in Canada was an autumn jacket, t-shirt, jeans, 
 
 * Depending on the weather, you may want to protect your body with different **layers of clothes**, e.g., a t-shirt, sweater, and winter jacket. For example, on a typical day in the south of Norway at -7°C, I wear a t-shirt with a winter jacket. But I would add the sweater layer in places like Kingston or Montreal, where the temperature reaches -25°C.
 
-The shoes and jacket are the most expensive items on this list. There are two options, buy them in second-hand stores, or wait until sales season, typically in spring. For further information about this topic, visit my friend's blog, [livingcheapinnorway.wordpress.com](https://livingcheapinnorway.wordpress.com/2018/10/21/how-to-dress-for-a-cold-climate/). She provides more tips and tricks about clothing for cold places and living in Norway.
+The shoes and jacket are the most expensive items on this list. There are two options, buy them in second-hand stores, or wait until sales season, typically in spring. For further information about this topic, visit my friend's blog, [livingcheapinnorway.wordpress.com/...](https://livingcheapinnorway.wordpress.com/2018/10/21/how-to-dress-for-a-cold-climate/). She provides more tips and tricks about clothing for cold places and living in Norway.
 
 ## The infamous freezing rain
 No one talks about **freezing rain**; this is the most kept secret from the winter. What happens when there is snow in a place a little bit above 0°C? It melts. And what happens if the temperature is below 0°C again? The water freezes, but not in the shape of snow, it freezes as ice. Now, imagine yourself walking on ice from your house to the university. Let me give you the following video as an example:
