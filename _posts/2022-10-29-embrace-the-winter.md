@@ -98,7 +98,7 @@ This feeling is more common during winter due to the cold environment and the la
 ## Some final thoughts
 Let me finish this post with a simple statement, I hate skiing. It is one of the scariest activities I have ever tried in my life, and says the guy who has jumped from bridges and flown in paragliding. Sorry to my fellow Norwegians about such a statement because the ski is the national sport in the country. But still, every winter, I try to experience something different, from building a snowman to fighting with snowballs. Although staying at home the whole season is tempting, there is a lot of fun and places to discover.
 
-A close friend once told me, *"Never eat yellow snow,"* and I keep those wise words in my heart. In addition, never lick a piece of metal during winter, I did it with a transit sign for the meme, and it was painful. Winter has been a whole new world for me, and indeed, it is my favourite season because there are so many activities I want to experience. Part of my philosophy is to enjoy little details in life, and touching snow or the sensation of coming home after a cold day brings me happiness. I hope that you will enjoy winter as much as I do.
+A close friend once told me, *"Never eat yellow snow,"* and I keep those wise words in my heart. In addition, never lick a piece of metal during winter, I did it with a transit sign for the meme, and it was painful. Winter has been a whole new world for me, and indeed, it is my favourite season because there are so many activities I want to experience. Part of my philosophy is to enjoy little details in life, and touching snow or the sensation of coming home after a cold day bring me happiness. I hope that you will enjoy winter as much as I do.
 
 <div style="text-align: center;">
     <img src="/images/winter_video.gif"
@@ -107,4 +107,4 @@ A close friend once told me, *"Never eat yellow snow,"* and I keep those wise wo
     <figcaption>A guy from a tropical country enjoying the snow</figcaption>
 </div>
 
-<sub>*Disclaimer: This post represents my personal opinion. I am not responsible for any content on external sites.</sub>
+<sub>*Disclaimer: This post represents my personal opinion. I am not responsible for any content on external sites. And this is not health advice.</sub>
