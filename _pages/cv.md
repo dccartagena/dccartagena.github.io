@@ -18,7 +18,7 @@ Education
   - *Project:* On the Kalman filter with intermittent observations
   - *Selected courses:* Stochastic Control, Modern Control Theory, Data Compression And Source Coding.
 * **B.S. in Mechatronics Engineering**, *EIA University*, Colombia, 2016
-  - *Project:* Autonomous navigation of a mobile robot using particle filtering in the localization stage.
+  * *Project:* Autonomous mobile robot navigation using particle filtering in the localization stage.
   - *Selected courses:* Robotics, Artificial Intelligence, Continuous And Discrete Control, Mechatronics Design
 
 Work experience
@@ -60,9 +60,9 @@ Awards
 * **Orchid gold award**, *Medellin Council*, Colombia, 2014
   - The Medellin Council awarded my robotics team with the Orchid gold award for our developments in mobile robots for international competitions between universities.
 * **Champion at RoboRave International**, *RoboRave*, USA, 2014
-  - Our team participated in the RoboRave International 2014 and won the first place in the Fire Fighting challenge, with an own made autonomous mobile robot based on Arduino platform and PIC microcontroller.
+  - Our team participated in the RoboRave International 2014 and won first place in the Fire Fighting challenge with an own made autonomous mobile robot based on an Arduino platform and PIC microcontroller.
 * **Champion at RoboRave Colombia**, *RoboRave*, Colombia, 2013
-  - My team participated in the RoboRave Colombia 2013 and won the first place in the Fire Fighting challenge, with an own made autonomous mobile robot based on Arduino platform.
+  - My team participated in the RoboRave Colombia 2013 and won first place in the Fire Fighting challenge with an own made autonomous mobile robot based on an Arduino platform.
 
 Projects
 ======
@@ -86,6 +86,8 @@ Service and leadership
 ======
 * **Academic and skills development coordinator**, UiAdoc, Norway, 2021-2022
   - Organized events to support the professional development of doctoral researchers in Agder.
+* **Event organizer**, ACI Medellin, Colombia, 2021-2021
+  - Organized virtual conferences in science popularization and cultural exchange for small businesses in the city.
 * **Community manager**, *IEEE Colombia*, Colombia, 2019
   - Community manager in charge of the social media accounts to promote the 4th IEEE Colombian Conference on Automatic Control.
 * **Student mentor**, *Clubes de Ciencia Colombia*, Colombia, 2017
