@@ -181,6 +181,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  supervision:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -247,6 +250,16 @@ defaults:
       layout: talk
       author_profile: false
       share: false
+  # _supervision
+  - scope:
+      path: ""
+      type: supervision
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
+  
 
 # Sass/SCSS
 sass:
