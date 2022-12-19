@@ -13,7 +13,7 @@ redirect_from:
 
 * **Ph.D in Engineering and Science**, *University of Agder*, Norway, 2023 (expected)
   - *Project:* Safe Deep Reinforcement Learning Techniques for Data-Driven Adaptive Control
-  - *Selected courses:* Optimization, Deep Learning, Statistical Signal Processing.
+  - *Selected courses:* Convex and Non-convex Optimization, Deep Learning, Statistical Signal Processing.
 * **M.Sc. in Mathematics and Statistics**, *Queen's University*, Canada, 2019
   - *Project:* On the Kalman filter with intermittent observations
   - *Selected courses:* Stochastic Control, Modern Control Theory, Data Compression And Source Coding.
@@ -23,6 +23,8 @@ redirect_from:
 
 ## Work experience
 
+* **Lecturer in Artificial Intelligence**, *University of Groningen*, The Netherlands, 2023
+  - TBA
 * **Teaching Assistant**, *Wisenet Center - University of Agder*, Norway, 2021-2022
   - Supported the design of the Ph.D. course in Deep Reinforcement Learning.
   - Taught lectures in advanced reinforcement learning algorithms to doctoral students.
@@ -30,7 +32,7 @@ redirect_from:
   - Tutored in Linear Algebra, Statistics, and Differential Equations courses.
 * **Project Assistant**, *General Hospital of Medellin*, Colombia, 2016 - 2017
   - Designed a MakerSpace for healthcare-related projects inside the Hospital.
-  - Developed learning activities about co-creation methodologies for healthcare professionals and administrative staff.
+  - Developed learning activities about co-creation methodologies for healthcare professionals.
   - Prototyped two devices related to hand-washing monitoring and sterilization process for intra-hospital use by utilizing the proposed co-creation methodology in the MakerSpace.
   - Supervised biomedical engineering students in projects about innovation in medical devices.
 

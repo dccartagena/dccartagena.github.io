@@ -80,17 +80,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Juan Diego Cardenas-Cartagena"
+  name             : "Juan Diego Cárdenas-Cartagena"
   avatar           : "profile_1.png"
-  bio              : "Ph.D. Research Fellow Reinforcement Learning"
-  location         : "Norway"
-  laboratory       : "WISENET Center"
-  lab_webpage      : "https://wisenet.uia.no/"
-  university       : "University of Agder"
-  uni_webpage      : "https://www.uia.no/"
+  bio              : "Lecturer in Artificial Intelligence"
+  location         : "The Netherlands"
+  laboratory       : "Faculty of Engineering and Science"
+  lab_webpage      : "https://www.rug.nl/fse/?lang=en"
+  university       : "University of Groningen"
+  uni_webpage      : "https://www.rug.nl/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kvdSZLEAAAAJ&hl=en"
-  email            : "juan.d.cardenas[at]uia.no"
+  email            : "j.d.cardenas.cartagena[at]rug.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
