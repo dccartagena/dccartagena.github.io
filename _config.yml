@@ -184,6 +184,9 @@ collections:
   supervision:
     output: true
     permalink: /:collection/:path/
+  supervision_proposals:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -259,6 +262,15 @@ defaults:
       author_profile: true
       share: false
       comments: false
+  # __supervision_proposals
+  - scope:
+      path: ""
+      type: supervision_proposals
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
   
 
 # Sass/SCSS
@@ -271,7 +283,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Oslo # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

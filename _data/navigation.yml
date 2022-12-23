@@ -3,11 +3,14 @@ main:
   - title: "Publications"
     url: /publications/    
 
-  - title: "Teaching"
-    url: /teaching/
-  
   - title: "Supervision"
     url: /supervision/
+
+  - title: "Ideas"
+    url: /ideas-projects/
+
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "Projects"
     url: /portfolio/

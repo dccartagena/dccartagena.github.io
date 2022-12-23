@@ -5,70 +5,11 @@ permalink: /ideas-projects/
 author_profile: true
 ---
 
-<h2>Open project</h2>
+{% include base_path %}
 
-<h3>Problem:</h3>
-<p>If you have a problem or idea, we may consider it for your bachelor’s or master's project. For this purpose, prepare a 10-minute elevator pitch of the idea and a literature review of the problem you aim to study. We may also discuss if I am a suitable candidate to supervise your project.</p>
-
-<p>My areas of interest for this open project are reinforcement learning, deep learning, estimation and control, and applications in cyber-physical systems. Visit the <a href="/publications/">Publications</a> or <a href="/portfolio/">Projects</a> tabs for more information about my work.</p>
-
-
-<div style="text-align: center;">
-    <img src="/images/Innovation_stages.jpg"
-        alt="Innovation stages."
-        style="display: block; margin-left: auto; margin-right: auto;" />
-    <figcaption>Innovation stages. Image is taken from <a href="https://commons.wikimedia.org/wiki/File:Innovation_stages.jpg">Wikimedia Commons</a></figcaption>
-  </div>
- 
-<h3>Tasks and timeline:</h3>
-
-<h4>Stage 1:</h4>
-<ul>
-    <li>Define the problem </li>
-    <li>Delimitate the solution concept.</li>
-    <li>Review the state-of-the-art and proposed solutions in the literature.</li>
-    <li>Brainstorm potential solutions for the problem.</li>
-</ul>
-
-<h4>Stage 2:</h4>
-<ul>
-    <li>Plan the experiments and test for the expected solution.</li>
-    <li>Design a proof-of-concept for potential solutions via minimum viable product concept.</li>
-    <li>Analyze the proposed proof-of-concept.</li>
-</ul>
-
-<h4>Stage 3:</h4>
-<ul>
-    <li>Evaluate the proof-of-concept with the proposed experiments and tests.</li>
-    <li>Benchmark the proof-of-concept against other solutions in the literature.</li>
-</ul>
-
-<h4>Stage 4:</h4>
-<ul>
-    <li>Document the problem description and solution-design methodology.</li>
-    <li>Show the results to reviewers and non-technical audiences.</li>
-</ul>
-
-<h3>Expected Outcomes:</h3>
-
-<h4>Mandatory products:</h4>
-<ul>
-    <li>Technical report with problem description, proposed solutions, experimental results, and project conclusions by following the University guidelines.</li>
-    <li>Software and hardware with documentation associated with the project.</li>
-    <li>A public dissertation following the University guidelines.</li>
-</ul>
-
-<h4>Optional products:</h4>
-<ul>
-    <li>Summary paper from the technical report suitable for conferences or journals.</li>
-    <li>3-minute elevator pitch video of the project.</li>
-    <li>Blog post or video explaining the problem and proposed solution for a general audience.</li>
-</ul>
-
-<h3>Bibliography:</h3>
-<p>As you propose the project, send me at least one (1) survey paper with a well-described problem and state-of-the-art solutions. Furthermore, if you consider that the project requires special topics out of the bachelor’s or master's curriculum, send me the proposed literature.</p>
-
-
+{% for post in site.supervision_proposals %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
 
