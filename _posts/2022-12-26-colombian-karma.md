@@ -5,7 +5,7 @@ permalink: posts/2022/12/colombian-karma/
 title:  "Do you sell coc...The Colombian karma"
 ---
 
-Christmas in 2022 has been weird for me due to unexpected and undesired events. However, I wanted to make this post about my nationality for future reference as it is a common topic that brings uncomfortable talks. Indeed, I got used to the phrase "do you sell drugs?" during the first 10 minutes of an introductory conversation with someone new, even in a professional setting. For the record, I do not sell drugs and am not involved in any of those businesses. Nevertheless, the Colombian nationality seems like a curse due to unwanted fame from the 70's - 90's decades and TV shows with distorted information. I aim to demystify Colombian nationality from the point of view of a researcher living outside Colombia.
+Christmas in 2022 has been weird for me due to unexpected and undesired events. However, I wanted to make this post about my nationality for future reference as it is a common topic that brings uncomfortable talks. Indeed, I got used to the phrase "do you sell drugs?" within the first 10 minutes of an introductory conversation with someone new, even in a professional setting. For the record, I do not sell drugs and am not involved in any of those businesses. Nevertheless, the Colombian nationality seems like a curse due to unwanted fame from the 70's - 90's decades and TV shows with distorted information. I aim to demystify Colombian nationality from the point of view of a researcher living outside Colombia.
 
 ***Keywords*** --- Colombia, multiculturalism, immigration.
 
@@ -51,7 +51,7 @@ Now, the bird on the right is a symbol of resilience. As a society, we have gone
 </div>
 
 ## Some final thoughts
- I am not patriotic and usually do not care about silly treatment due to my nationality. However, this post resulted from an unfortunate comment by someone I appreciated. So, at least, for one day, let me stop normalizing such behaviour and start talking about this xenophobia. 
+ I am not patriotic and usually do not care about silly treatment due to my nationality. However, this post resulted from an unfortunate comment by someone I respected. So, at least, for one day, let me stop normalizing such behaviour and start talking about this xenophobia. 
 
 During my years outside the country, I have met amazing Colombians worldwide. They are fascinating engineers, mathematicians, carpenters, drivers, students, mothers, fathers, wives, husbands looking for a better future in a different country. Of course, bad guys are out there, but the good Colombians are more.
 
