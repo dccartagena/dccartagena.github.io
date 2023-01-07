@@ -21,35 +21,35 @@ My areas of interest for this open project are reinforcement learning, deep lear
 ## Tasks and Timeline
 
 ### Stage 1:
-* Define the problem
-* Delimitate the solution concept
-* Review the state-of-the-art and proposed solutions in the literature
-* Brainstorm potential solutions for the problem
+* Define the problem;
+* Delimitate the solution concept;
+* Review the state-of-the-art and proposed solutions in the literature;
+* Brainstorm potential solutions for the problem.
 
 ### Stage 2:
-* Plan the experiments and test for the expected solution 
-* Design a proof-of-concept for potential solutions via minimum viable product concept
-* Analyze the proposed proof-of-concept
+* Plan the experiments and test for the expected solution;
+* Design a proof-of-concept for potential solutions via minimum viable product concept;
+* Analyze the proposed proof-of-concept.
 
 ### Stage 3: 
-* Evaluate the proof-of-concept with the proposed experiments and tests
-* Benchmark the proof-of-concept against other solutions in the literature
+* Evaluate the proof-of-concept with the proposed experiments and tests;
+* Benchmark the proof-of-concept against other solutions in the literature.
 
 ### Stage 4: 
-* Document the problem description and solution-design methodology
-* Show the results to reviewers and non-technical audiences
+* Document the problem description and solution-design methodology;
+* Show the results to reviewers and non-technical audiences.
 
 ## Expected Outcomes
 
 ### Mandatory Products
-* Technical report with problem description, proposed solutions, experimental results, and project conclusions by following the University guidelines
-* Software and hardware with documentation associated with the project
-* A public dissertation following the University guidelines
+* Technical report with problem description, proposed solutions, experimental results, and project conclusions by following the University guidelines;
+* Software and hardware with documentation associated with the project;
+* A public dissertation following the University guidelines.
 
 ### Optional Products
-* Summary paper from the technical report suitable for conferences or journals
-* 3-minute elevator pitch video of the project
-* Blog post or video explaining the problem and proposed solution for a general audience
+* Summary paper from the technical report suitable for conferences or journals;
+* 3-minute elevator pitch video of the project;
+* Blog post or video explaining the problem and proposed solution for a general audience.
 
 ## Bibliography
 As you propose the project, send me at least one (1) survey paper with a well-described problem and state-of-the-art solutions. Furthermore, if you consider that the project requires special topics out of the bachelor’s or master's curriculum, send me the proposed literature
