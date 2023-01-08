@@ -4,7 +4,7 @@ in Dutch high schools"
 collection: supervision_proposals
 permalink: /ideas-projects/2022-ml-pedagogy-hs
 date: 2022-12-26
-excerpt: TBA.
+excerpt: This project aims to develop tools to teach machine learning concepts with hands-on approach focusing on teenagers above 16 years old. The resulting tools are expected to catch and maintain the motivation of the students while teaching abstract concepts in an easy-to-follow way.
 ---
 
 ## Motivation

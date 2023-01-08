@@ -3,7 +3,7 @@ title: "Design of a Deep Learning approach to simulate and forecast smog clouds"
 collection: supervision_proposals
 permalink: /ideas-projects/2022-air-medellin
 date: 2022-12-25
-excerpt: TBA.
+excerpt: This project proposes to develop and evaluate a physics-enhanced deep learning approach for smog cloud modelling by using the growing amount of data on the topic, new deep learning architectures for time-series processing, and the current models as heuristics.
 ---
 
 ## Motivation

@@ -4,7 +4,7 @@ into videogames"
 collection: supervision_proposals
 permalink: /ideas-projects/2022-saferl-videogames
 date: 2022-12-24
-excerpt: TBA.
+excerpt: this project aims to benchmark safe RL and propose novel ideas to improve the existing state-of-the-art in the area.
 ---
 
 ## Motivation
