@@ -13,7 +13,7 @@ I am writing this post while preparing for a new adventure in the Netherlands. A
     <img src="/images/airplane.jpg"
         alt="Vista desde avion"
         style="display: block; margin-left: auto; margin-right: auto;" />
-    <figcaption>[Add new image]</figcaption>
+    <figcaption>View from airplane</figcaption>
 </div>
 
 ## Detachment and immigration
