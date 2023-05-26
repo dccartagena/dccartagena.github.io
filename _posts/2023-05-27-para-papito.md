@@ -8,17 +8,17 @@ This poem is dedicated to someone who gave me the best days of my childhood.
 
 ***Keywords*** --- poetry.
 
-*These are some words I wanted to tell you,* \
+*These are some words I wanted to tell you,*\
 *As I have not seen you for a year,*\
 *When my eyes get lost in the thoughts,*\
 *Your image is there waiting with peace.*
 
 *I am glad you are with her again,*\
 *As your mind was lost when she moved away,*\
-*We missed her together, *\
+*We missed her together,*\
 *And she is your true love.*
 
-*Do you keep in touch with your daughter? *\
+*Do you keep in touch with your daughter?*\
 *She is always asking about you,*\
 *Maybe, try to ring her tonight,*\
 *And tell her about your new world.*
