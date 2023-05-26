@@ -30,6 +30,21 @@ Let us face it, making friends in a new society is always tricky. Even when some
 
 Have you ever heard about the "Latino time"? This is a clear example of how different societies may perceive time. In Colombia, we tend to take time in an expontaneous manner, so it is expected that people will arrive late for meetings, including professional settings! Norwegians and Canadians may wait for you for 5 minutes. But do not dare to be late in Germany; otherwise, bad things can happen. Such differences may lead the new immigrants to ask questions about their values. While such concerns arise, searching for other immigrants with similar heritage is common. Thus, the immigrant may feel "at home" in the new country. Although such an adaptation strategy is adequate, forming links with the unfamiliar society is still advisable. 
 
+## Life is about making mistakes
+
+Perhaps the most challenging lesson from life is that making mistakes is okay-ish. Sometimes we forget to reply to a message, say goodbye to someone, or trigger the fire alarm while cooking water. Let me repeat it, making mistakes is part of the day-to-day. As the saying goes, *If you fell down yesterday, stand up today* (H. G. Wells). Thus, fixing the issue is the real question here. 
+
+There will be consequences; thus, whenever a tough decision knocks on the door, here are my two ways to face it: minimizing impacts or going for the high-risk/high-gain scenario. There is no correct answer here; everything depends on the situation. For example, doing the master's was a high-risk/high-gain for me as I wanted to become a researcher but there was a huge student loan; while moving to the Netherlands was a consequence minimization scenario as the job opportunity was too exciting, but moving to another country is complex.
+
+Nevertheless, my two cents are on the ability to make fast decisions and move one with the results; because time runs while situations require a path to follow. It does not mean making the first decision that passes through your mind is a good idea; but instead analyzing the scenario and possible consequences as soon as possible. And again, the potential outcome in your decision will not be the best one, but get over it and continue the life.
+
+<div style="text-align: center;">
+    <img src="/images/dont_grow_up.jpg"
+        alt="Self-improvement message found in the streets of Kingston, Canada"
+        style="display: block; margin-left: auto; margin-right: auto;" />
+    <figcaption>Self-improvement message found in the streets of Kingston, Canada</figcaption>
+</div>
+
 ## Some final thoughts
 
 As a close friend told me once: "one should live outside the hometown for a while, at least once." And let me emphasize leaving a hometown is a tough decision. There will be a lot of delusional circumstances, and loneliness might become a routine. But, after 5 years of living outside Medellin, let me say that I would do it again. 
