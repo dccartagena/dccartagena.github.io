@@ -39,13 +39,11 @@ Estimating a value function in reinforcement learning (RL) for continuous spaces
 ## Expected Outcomes
 
 ### Mandatory Products
-* An autonomous agent capable of playing video games by considering safety constraints;
-* Benchmark with other (safe) reinforcement learning algorithms in the literature;
+* Benchmark with other reinforcement learning algorithms in the literature;
 * Mathematical analysis of the proposed algorithm;
 * Software with documentation associated with the project;
 * Technical report with problem description, proposed solutions, experimental results, and project conclusions by following the University guidelines;
 * A public dissertation following the University guidelines.
-
 
 ### Optional Products
 * Summary paper from the technical report suitable for conferences or journals;
