@@ -18,6 +18,21 @@ My areas of interest for this open project are reinforcement learning, deep lear
     <figcaption>Innovation stages. Image is taken from <a href="https://commons.wikimedia.org/wiki/File:Innovation_stages.jpg">Wikimedia Commons</a></figcaption>
 </div>
 
+## First Step: Choosing a Project
+
+Open projects require an extra step to understand the context behind the problem or motivation, so, I follow the Heilmeier questionnaire to evaluate ideas:
+
+* What are you trying to do? You should be able to explain your objectives using absolutely no jargon.
+* How is it done today, and what are the limits of current practice?
+* What is new in your approach, and why do you think it will be successful?
+* Who cares? If you are successful, what difference will it make?
+* What are the risks?
+* How much will it cost?
+* How long will it take?
+* What are the mid-term and final “exams” to check for success?
+
+source: <a href="https://www.darpa.mil/work-with-us/heilmeier-catechism">www.darpa.mil/work-with-us/heilmeier-catechism</a>
+
 ## Tasks and Timeline
 
 ### Stage 1:
