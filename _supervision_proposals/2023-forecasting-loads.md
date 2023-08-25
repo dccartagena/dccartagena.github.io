@@ -1,14 +1,14 @@
 ---
-title: "Forecasting building loads (based on the Neurips 2023 CityLearn Challenge)"
+title: "Forecasting building loads, grid carbon intensity and solar generation (based on the Neurips 2023 CityLearn Challenge)"
 collection: supervision_proposals
 permalink: /ideas-projects/2023-forecasting-loads
 date: 2023-08-25
-excerpt: 
+excerpt: This project aims to develop a data preprocessing pipeline and use deep learning models to predict grid quality and resilience in a simulated neighborhood with distributed energy resources.
 ---
 
 ## Motivation
 
-
+Distributed energy resources (DER) in urban areas, such as solar cells and heat pumps, can help reduce the strain on the power grid during peak hours and increase network resilience, making them a crucial player in mitigating climate change. Proper management is vital to prevent destabilization in the grid and ensure user comfort. For this purpose it is required to develop reliable control systems capable of coordinating each component in the grid. Indeed, model predictive control (MPC) is a suitable technique to boost energy efficiency in the neighbour as it aims to compute a policy by considering a the grid behaviour subject to safety and comfort constraints. However, the fundamental part of MPC is the model itself. Hence, this project aims to develop regression models, based on deep learning techniques, to forecast 48 hours of grid quality and resilience variables in a neighborhood with DER. 
 
 For further information about the challenge, please visit <a href="https://www.aicrowd.com/challenges/neurips-2023-citylearn-challenge/problems/forecasting-track-citylearn-challenge ">AIcrowd - Forecasting Track: CityLearn Challenge</a>
 
@@ -48,7 +48,7 @@ Please note that **the project does not aim to participate in the challenge form
 ## Expected Outcomes
 
 ### Mandatory Products
-* Simulation of building loads;
+* Simulation of building loads, grid carbon intensity and solar generation;
 * Mathematical analysis of the proposed algorithm;
 * Software with documentation associated with the project;
 * Technical report with problem description, proposed solutions, experimental results, and project conclusions by following the University guidelines;
@@ -61,7 +61,7 @@ Please note that **the project does not aim to participate in the challenge form
 
 ## Bibliography
 * M. Neukomm, V. Nubbe, and R. Fares, “Grid-Interactive Efficient Buildings Technical Report Series: Overview of Research Challenges and Gaps,” NREL/TP-5500-75470, DOE/GO-102019-5227, 1577966, Dec. 2019. doi: 10.2172/1577966.
-* T. Brudermüller and M. Kreft, “Smart Meter Data Analytics: Practical Use-Cases and Best Practices of Machine Learning Applications for Energy Data in the Residential Sector,” presented at the ICLR 2023 Workshop: Tackling Climate Change with Machine Learning, Kigali, Rwanda, 2023. [Online]. Available: https://www.climatechange.ai/papers/iclr2023/3
-* K. Nweye, A. Wu, H. Park, Y. Almilaify, and Z. Nagy, “CityLearn: A Tutorial on Reinforcement Learning Control for Grid-Interactive Efficient Buildings and Communities,” presented at the ICLR 2023 Workshop: Tackling Climate Change with Machine Learning, Kigali, Rwanda, 2023. [Online]. Available: https://www.climatechange.ai/papers/iclr2023/2
+* T. Brudermüller and M. Kreft, “Smart Meter Data Analytics: Practical Use-Cases and Best Practices of Machine Learning Applications for Energy Data in the Residential Sector,” presented at the ICLR 2023 Workshop: Tackling Climate Change with Machine Learning, Kigali, Rwanda, 2023.
+* K. Nweye, A. Wu, H. Park, Y. Almilaify, and Z. Nagy, “CityLearn: A Tutorial on Reinforcement Learning Control for Grid-Interactive Efficient Buildings and Communities,” presented at the ICLR 2023 Workshop: Tackling Climate Change with Machine Learning, Kigali, Rwanda, 2023.
 
 
