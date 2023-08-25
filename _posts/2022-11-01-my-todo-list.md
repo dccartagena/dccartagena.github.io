@@ -10,7 +10,7 @@ Let me share with you my to-do list for the next decades. Some activities are ch
 ***Keywords*** --- to-do list, goals, personal deveolpemnt.
 
 - [ ] Finish my doctoral dissertation
-- [ ] Visit Canada and Germany again
+- [ ] Visit Canada and ~~Germany~~ again
 - [ ] Pay my student loans
 - [ ] Build a premium chocolate factory
 - [ ] Manage a cocoa plantation
@@ -30,10 +30,10 @@ Let me share with you my to-do list for the next decades. Some activities are ch
 - [X] ~~Assist to a Cirque du Soleil show~~
 - [ ] Design an Algo-trading system
 - [ ] Participate in a machine learning competition about finance
-- [ ] Drive a car at 200 km/h
+- [ ] Drive a car at ~~150 kph~~ and 200 kph
 - [ ] Build a gamer pc
 - [ ] Assist to a Green Day concert
-- [ ] Speak Norwegian at a B2 level
+- [ ] Speak Norwegian and Dutch at a B2 level
 - [X] ~~Appear on national TV~~
 - [X] ~~Show my work in the newspapers~~
 - [X] ~~See the Northern lights~~
@@ -50,14 +50,14 @@ Let me share with you my to-do list for the next decades. Some activities are ch
 - [ ] Meet Sebastian Thrun
 - [ ] Meet Juanes
 - [ ] Get married with my crush
-- [ ] Read the final chapter in One Piece
+- [ ] Read the final chapter of One Piece
 - [ ] Assist to a Rammstein concert
 - [ ] Learn how to make home-made mozzarella cheese
 - [ ] Eat a Sacher cake in Vienna
 - [ ] Drive a car in Lofoten
 - [ ] Become a parental figure for someone
 - [ ] Visit Okinawa
-- [ ] Make a trip through Europe by car
+- [ ] ~~Make a trip through Europe by car~~
 - [ ] Become a voice actor
 - [ ] Participate in a zombie walk
 - [ ] Visit Kathmandu
