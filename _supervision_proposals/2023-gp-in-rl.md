@@ -3,7 +3,7 @@ title: "Reinforcement Learning via Gaussian Processes"
 collection: supervision_proposals
 permalink: /ideas-projects/2023-gp-in-rl
 date: 2023-07-21
-excerpt: This project explores the advantages and limitations of using Gaussian Process in model-free Reinforcement Learning , focusing on Q-learning. .
+excerpt: This project explores the advantages and limitations of using Gaussian Process in model-free Reinforcement Learning , focusing on Q-learning.
 ---
 
 ## Motivation

@@ -31,7 +31,7 @@ Open projects require an extra step to understand the context behind the problem
 * How long will it take?
 * What are the mid-term and final “exams” to check for success?
 
-source: <a href="https://www.darpa.mil/work-with-us/heilmeier-catechism">www.darpa.mil/work-with-us/heilmeier-catechism</a>
+source: <a href="https://www.darpa.mil/work-with-us/heilmeier-catechism">www.darpa.mil/...</a>
 
 ## Tasks and Timeline
 
