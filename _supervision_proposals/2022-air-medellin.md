@@ -23,15 +23,15 @@ Medellin, Colombia, is one of the most polluted places in Latin America due to i
 ## Tasks and Timeline
 
 ### Stage 1:
-* Define the estimation problem for smog cloud dynamics;
-* Delimitate the solution concept;
+* Define the forecasting problem for smog cloud dynamics;
+* Delimitate the solution concept within deep learning methods;
 * Review the state-of-the-art and proposed solutions in the literature;
 * Brainstorm potential deep learning-based solutions for the problem.
 
 ### Stage 2:
 * Plan the experiments and test for the expected solution;
 * Describe the dataset;
-* Develop a pre-processing data methodology;
+* Develop a pre-processing data pipeline;
 * Select meaningful features from the dataset;
 * Design a proof-of-concept for potential solutions via minimum viable product concept;
 * Analyze the proposed proof-of-concept.
