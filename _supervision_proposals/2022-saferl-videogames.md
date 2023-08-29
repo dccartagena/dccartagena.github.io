@@ -1,6 +1,5 @@
 ---
-title: "Implementation of Safe Deep Learning algorithms 
-into videogames"
+title: "Implementation of Safe Deep Learning algorithms in videogames"
 collection: supervision_proposals
 permalink: /ideas-projects/2022-saferl-videogames
 date: 2022-12-24
