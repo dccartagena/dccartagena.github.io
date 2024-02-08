@@ -3,15 +3,20 @@ title: "ML for sustainable fishing - based on the FishAI competition by NORA"
 collection: supervision_proposals
 permalink: /ideas-projects/2024-fishing
 date: 2024-02-01
-excerpt: Design a data-driven planning system for fish catching routesbased on historical data;
+excerpt: Design a data-driven planning system for fish catching routes based on historical data;
 ---
 
 ## Motivation
+This project dives into using data to plan better fishing routes. By analyzing past environmental data like sea temperature, moon phase, and fishermen's notes, we aim to create data-driven models that help fishermen catch more fish efficiently.
 
+Comment: This project is based on the Fish AI competition by NORA.
+
+## Research Question
+How can machine learning techniques optimize fishing routes using historical environmental data?
 
 <div style="text-align: center;">
     <img src="/images/fish.png"
-        alt="Gaussian Process."
+        alt="Fishes."
         style="display: block; margin-left: auto; margin-right: auto;" />
     <figcaption>Image generated with Dall-E 3</figcaption>
 </div>

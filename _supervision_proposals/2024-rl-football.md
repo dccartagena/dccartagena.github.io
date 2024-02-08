@@ -7,11 +7,14 @@ excerpt: This project compares the capabilities of single-agent and multiagent R
 ---
 
 ## Motivation
-Advances in deep reinforcement learning in 
+
+
+## Research Question
+What insights do multi-agent reinforcement learning techniques offer regarding performance and scalability within simulated football environments?
 
 <div style="text-align: center;">
     <img src="/images/football-rl.png"
-        alt="Gaussian Process."
+        alt="Football and Atari."
         style="display: block; margin-left: auto; margin-right: auto;" />
     <figcaption>Image generated with Dall-E 3</figcaption>
 </div>

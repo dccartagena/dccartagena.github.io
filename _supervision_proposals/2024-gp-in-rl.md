@@ -9,6 +9,9 @@ excerpt: This project explores the advantages and limitations of using Gaussian 
 ## Motivation
 Estimating a value function in reinforcement learning (RL) for continuous spaces is a challenging problem. Function approximation is often used to address this challenge, with linear functions and deep learning being two popular approaches. Linear functions are interpretable but can only model simple functions, while deep learning models are powerful but can be black-box models. Gaussian process (GP) modelling is a method that offers the best of both worlds: it can model complex systems while still providing interpretable results under certain conditions. This project, focusing on Q-learning, explores the advantages and limitations of using GP in model-free RL.
 
+## Research Question
+What are the advantages and limitations of Gaussian Processes as function approximators for reinforcement learning?
+
 <div style="text-align: center;">
     <img src="/images/Gaussian_Process.png"
         alt="Gaussian Process."
