@@ -3,11 +3,11 @@ title: "Reinforcement Learning for Football"
 collection: supervision_proposals
 permalink: /ideas-projects/2024-rl-football
 date: 2024-02-01
-excerpt: This project compares the capabilities of single-agent and multiagent RL algorithms to train agents capable of playing football in  a simulated environment. 
+excerpt: This project explores how well multi-agent reinforcement learning works in simulated football games and how scalable it is. 
 ---
 
 ## Motivation
-
+This project explores how well multi-agent reinforcement learning works in simulated football games and how scalable it is against to the single-agent case.
 
 ## Research Question
 What insights do multi-agent reinforcement learning techniques offer regarding performance and scalability within simulated football environments?
