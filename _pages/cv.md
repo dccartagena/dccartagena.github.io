@@ -24,7 +24,8 @@ redirect_from:
 ## Work experience
 
 * **Lecturer in Artificial Intelligence**, *University of Groningen*, The Netherlands, 2023
-  - TBA
+  - Teach and design undergraduate and graduate-level courses in artificial intelligence, covering topics such as Signals and Systems, Reinforcement Learning, and Machine Learning.
+  - Supervise Bachelor's and Master's thesis projects, guiding students in the application of AI principles and research methodologies.
 * **Teaching Assistant**, *Wisenet Center - University of Agder*, Norway, 2021-2022
   - Supported the design of the Ph.D. course in Deep Reinforcement Learning.
   - Taught lectures in advanced reinforcement learning algorithms to doctoral students.
@@ -86,6 +87,8 @@ redirect_from:
   
 ## Service and leadership
 
+* **Reviewer**, 2022-Present
+  - Review scientific papers for multiple conferences and journals in the field of artificial intelligence and control.
 * **Academic and skills development coordinator**, UiAdoc, Norway, 2021-2022
   - Organized events to support the professional development of doctoral researchers in Agder.
 * **Event organizer**, ACI Medellin, Colombia, 2021-2021
