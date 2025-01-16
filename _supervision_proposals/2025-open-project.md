@@ -1,8 +1,8 @@
 ---
 title: "Open Project"
 collection: supervision_proposals
-permalink: /ideas-projects/2022-open-project
-date: 2022-12-23
+permalink: /ideas-projects/2025-open-project
+date: 2025-01-16
 excerpt: If you have a problem or idea, we may consider it for your bachelor’s or master's project.
 ---
 
