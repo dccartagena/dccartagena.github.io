@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-* **Ph.D in Engineering and Science**, *University of Agder*, Norway, 2023 (expected)
+* **Ph.D in Engineering and Science**, *University of Agder*, Norway, 2025 (expected)
   - *Project:* Safe Deep Reinforcement Learning Techniques for Data-Driven Adaptive Control
   - *Selected courses:* Convex and Non-convex Optimization, Deep Learning, Statistical Signal Processing.
 * **M.Sc. in Mathematics and Statistics**, *Queen's University*, Canada, 2019
