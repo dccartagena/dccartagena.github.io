@@ -3,7 +3,7 @@ title: "Applications of KalmanNet"
 collection: supervision_proposals
 permalink: /ideas-projects/2025-kalmanet-applications
 date: 2025-01-16
-excerpt: TBA.
+excerpt: we aim to explore and evaluate the capabilities of a hybrid model known as KalmanNet. This model preserves the model assumption while introducing an adaptive internal architecture based on recurrent neural networks. The evaluation will focus on target applications such as time series estimation with partial information and object tracking. Additionally, we will emphasize explainability, hardware performance, and system accuracy.
 ---
 
 ## Motivation
@@ -12,7 +12,7 @@ The Kalman Filter (KF), proposed by Rudolf E. Kálmán in [1], is one of the mos
 
 One of the main drawbacks of the KF is its reliance on the assumption of a known linear Gaussian **model** in the system. Although it is possible to extend the filter to the non-linear case [2, 3, 4] or apply the same methodology to non-Gaussian variables [5], this assumption remains quite restrictive. In recent decades, there has been a growing emphasis on developing hybrid filters that leverage the theoretical guarantees of the KF with the data-driven flexibility of machine learning models, particularly deep learning approaches [6, 7]. 
 
-Thus, in this project, we aim to explore and evaluate the capabilities of an hybryd model known as the KalmanNet proposed in [8, 9], 
+Thus, in this project, we aim to explore and evaluate the capabilities of a hybrid model known as KalmanNet, proposed in [8, 9]. This model preserves the model assumption while introducing an adaptive internal architecture based on recurrent neural networks. The evaluation will focus on target applications such as time series estimation with partial information and object tracking. Additionally, we will emphasize explainability, hardware performance, and system accuracy.
 
 <div style="text-align: center;">
     <img src="/images/kalmannet.png"
@@ -57,13 +57,21 @@ Thus, in this project, we aim to explore and evaluate the capabilities of an hyb
 
 ## Bibliography
 [1] R. E. Kalman, “A New Approach to Linear Filtering and Prediction Problems,” Journal of Basic Engineering, vol. 82, no. 1, pp. 35–45, Mar. 1960, doi: 10.1115/1.3662552.
+
 [2] E. A. Wan and R. Van Der Merwe, “The unscented Kalman filter for nonlinear estimation,” in Proceedings of the IEEE 2000 Adaptive Systems for Signal Processing, Communications, and Control Symposium (Cat. No.00EX373), Lake Louise, Alta., Canada: IEEE, 2000, pp. 153–158. doi: 10.1109/ASSPCC.2000.882463.
+
 [3] B. D. Anderson and J. B. Moore, Optimal filtering. in Prentice-Hall information and system sciences series. Englewood Cliffs, N. J.: Prentice-Hall, 1979.
+
 [4] M. Gruber, “An Approach For Target Tracking,” Defense Technical Information Center, Fort Belvoir, VA, Feb. 1967. doi: 10.21236/AD0654272.
+
 [5] N. J. Gordon, D. J. Salmond, and A. F. M. Smith, “Novel approach to nonlinear/non-Gaussian Bayesian state estimation,” IEE Proc. F Radar Signal Process. UK, vol. 140, no. 2, p. 107, 1993, doi: 10.1049/ip-f-2.1993.0015.
+
 [6] S. Feng, X. Li, S. Zhang, Z. Jian, H. Duan, and Z. Wang, “A review: state estimation based on hybrid models of Kalman filter and neural network,” Systems Science & Control Engineering, vol. 11, no. 1, p. 2173682, Dec. 2023, doi: 10.1080/21642583.2023.2173682.
+
 [7] Y. Bai, B. Yan, C. Zhou, T. Su, and X. Jin, “State of art on state estimation: Kalman filter driven by machine learning,” Annual Reviews in Control, vol. 56, p. 100909, 2023, doi: 10.1016/j.arcontrol.2023.100909.
+
 [8] G. Revach, N. Shlezinger, R. J. G. Van Sloun, and Y. C. Eldar, “Kalmannet: Data-Driven Kalman Filtering,” in ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, ON, Canada: IEEE, Jun. 2021, pp. 3905–3909. doi: 10.1109/ICASSP39728.2021.9413750.
+
 [9] G. Revach, N. Shlezinger, X. Ni, A. L. Escoriza, R. J. G. Van Sloun, and Y. C. Eldar, “KalmanNet: Neural Network Aided Kalman Filtering for Partially Known Dynamics,” IEEE Trans. Signal Process., vol. 70, pp. 1532–1547, 2022, doi: 10.1109/TSP.2022.3158588.
 
 
