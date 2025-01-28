@@ -3,7 +3,7 @@ title: "Applications of KalmanNet"
 collection: supervision_proposals
 permalink: /ideas-projects/2025-kalmanet-applications
 date: 2025-01-16
-excerpt: we aim to explore and evaluate the capabilities of a hybrid model known as KalmanNet. This model preserves the model assumption while introducing an adaptive internal architecture based on recurrent neural networks. The evaluation will focus on target applications such as time series estimation with partial information and object tracking. Additionally, we will emphasize explainability, hardware performance, and system accuracy.
+excerpt: we aim to explore and evaluate the capabilities of a hybrid system known as KalmanNet. This system preserves the model assumption while introducing an adaptive internal architecture based on recurrent neural networks. The evaluation will focus on target applications such as time series estimation with partial information and object tracking. Additionally, we will emphasize explainability, hardware performance, and system accuracy.
 ---
 
 ## Motivation
@@ -12,7 +12,7 @@ The Kalman Filter (KF), proposed by Rudolf E. Kálmán in [1], is one of the mos
 
 One of the main drawbacks of the KF is its reliance on the assumption of a known linear Gaussian **model** in the system. Although it is possible to extend the filter to the non-linear case [2, 3, 4] or apply the same methodology to non-Gaussian variables [5], this assumption remains quite restrictive. In recent decades, there has been a growing emphasis on developing hybrid filters that leverage the theoretical guarantees of the KF with the data-driven flexibility of machine learning models, particularly deep learning approaches [6, 7]. 
 
-Thus, in this project, we aim to explore and evaluate the capabilities of a hybrid model known as KalmanNet, proposed in [8, 9]. This model preserves the model assumption while introducing an adaptive internal architecture based on recurrent neural networks. The evaluation will focus on target applications such as time series estimation with partial information and object tracking. Additionally, we will emphasize explainability, hardware performance, and system accuracy.
+Thus, in this project, we aim to explore and evaluate the capabilities of a hybrid system known as KalmanNet, proposed in [8, 9]. This system preserves the model assumption while introducing an adaptive internal architecture based on recurrent neural networks. The evaluation will focus on target applications such as time series estimation with partial information and object tracking. Additionally, we will emphasize explainability, hardware performance, and system accuracy.
 
 <div style="text-align: center;">
     <img src="/images/kalmannet.png"
