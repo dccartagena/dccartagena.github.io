@@ -3,7 +3,7 @@ title: "Applications of KalmanNet"
 collection: supervision_proposals
 permalink: /ideas-projects/2025-kalmanet-applications
 date: 2025-01-16
-excerpt: we aim to explore and evaluate the capabilities of a hybrid system known as KalmanNet. This system preserves the model assumption while introducing an adaptive internal architecture based on recurrent neural networks. The evaluation will focus on target applications such as time series estimation with partial information and object tracking. Additionally, we will emphasize explainability, hardware performance, and system accuracy.
+excerpt: We aim to explore and evaluate the capabilities of a hybrid system known as KalmanNet. This system preserves the model assumption while introducing an adaptive internal architecture based on recurrent neural networks. The evaluation will focus on target applications such as time series estimation with partial information and object tracking. Additionally, we will emphasize explainability, hardware performance, and system accuracy.
 ---
 
 ## Motivation

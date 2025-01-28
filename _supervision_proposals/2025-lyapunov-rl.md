@@ -8,13 +8,13 @@ excerpt: TBA
 
 ## Motivation
 
-TBA
+One of the pillars of Reinforcement Learning (RL) is ...
 
 <div style="text-align: center;">
-    <img src="/images/linea-transmicion.jpg"
-        alt="Linea de transmicion."
+    <img src="/images/kalmannet.png"
+        alt="Kalman filter block diagram."
         style="display: block; margin-left: auto; margin-right: auto;" />
-    <figcaption></figcaption>
+    <figcaption>Kalman filter block diagram. Image taken from [3]</figcaption>
 </div>
 
 ## Tasks and Timeline
