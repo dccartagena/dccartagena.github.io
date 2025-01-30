@@ -8,7 +8,7 @@ excerpt: TBA.
 
 ## Motivation
 
-TBA
+
 
 <div style="text-align: center;">
     <img src="/images/linea-transmicion.jpg"
