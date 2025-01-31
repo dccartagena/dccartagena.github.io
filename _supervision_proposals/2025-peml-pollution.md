@@ -8,26 +8,28 @@ excerpt: TBA.
 
 ## Motivation
 
+This project aims to explore the injection of prior information coming from first-principle models into deep learning models to forecast time series coming from air pollution data. 
 
+The idea is to use selected fluid dynamic models to influence the output of deep and evaluate the performance change.
 
 <div style="text-align: center;">
-    <img src="/images/linea-transmicion.jpg"
+    <img src="/images/pollution.jpg"
         alt="Linea de transmicion."
         style="display: block; margin-left: auto; margin-right: auto;" />
-    <figcaption></figcaption>
+    <figcaption><a href="https://commons.wikimedia.org/wiki/File:IJmuiden,_the_Netherlands_(9043390013).jpg">Ineke Huizing from Alphen aan den Rijn, the Netherlands</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons</figcaption>
 </div>
 
 ## Tasks and Timeline
 
 ### Stage 1:
-* Define the forecasting problem for building loads;
-* Delimitate the solution concept within deep learning methods;
+* Frame the air pollution forecasting problem in terms physics enhance machine learning.
 * Review the state-of-the-art and proposed solutions in the literature;
-* Brainstorm potential deep learning-based solutions for the problem.
+* Familiarize with the proposed deep learning baseline.
+* Brainstorm potential fluid-dynamic models to enhance the deep learning baseline.
 
 ### Stage 2:
-* Plan the experiments and test for the expected solution;
-* Describe the dataset;
+* Plan the experiments and tests for the expected solution;
+* Collect and describe environmental data related to air pollution;
 * Develop a pre-processing data pipeline;
 * Select meaningful features from the dataset;
 * Design a proof-of-concept for potential solutions via minimum viable product concept;
@@ -44,7 +46,7 @@ excerpt: TBA.
 ## Expected Outcomes
 
 ### Mandatory Products
-* Simulation of building loads, grid carbon intensity and solar generation;
+* Simulation of smog clouds forecasting;
 * Mathematical analysis of the proposed algorithm;
 * Software with documentation associated with the project;
 * Technical report with problem description, proposed solutions, experimental results, and project conclusions by following the University guidelines;
@@ -56,8 +58,5 @@ excerpt: TBA.
 * Blog post or video explaining the problem and proposed solution for a general audience.
 
 ## Bibliography
-* M. Neukomm, V. Nubbe, and R. Fares, “Grid-Interactive Efficient Buildings Technical Report Series: Overview of Research Challenges and Gaps,” NREL/TP-5500-75470, DOE/GO-102019-5227, 1577966, Dec. 2019. doi: 10.2172/1577966.
-* T. Brudermüller and M. Kreft, “Smart Meter Data Analytics: Practical Use-Cases and Best Practices of Machine Learning Applications for Energy Data in the Residential Sector,” presented at the ICLR 2023 Workshop: Tackling Climate Change with Machine Learning, Kigali, Rwanda, 2023.
-* K. Nweye, A. Wu, H. Park, Y. Almilaify, and Z. Nagy, “CityLearn: A Tutorial on Reinforcement Learning Control for Grid-Interactive Efficient Buildings and Communities,” presented at the ICLR 2023 Workshop: Tackling Climate Change with Machine Learning, Kigali, Rwanda, 2023.
-
-
+* P. O’Driscoll, J. Lee, and B. Fu, “Physics Enhanced Artificial Intelligence,” arXiv:1903.04442, Mar. 2019, Accessed: May 09, 2020. Available: http://arxiv.org/abs/1903.04442
+* Q. Tao, F. Liu, Y. Li, and D. Sidorov, “Air Pollution Forecasting Using a Deep Learning Model Based on 1D Convnets and Bidirectional GRU,” IEEE Access, vol. 7, pp. 76690–76698, 2019, doi: 10.1109/ACCESS.2019.2921578.
