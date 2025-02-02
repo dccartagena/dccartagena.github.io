@@ -56,8 +56,7 @@ One of the pillars of Reinforcement Learning (RL) is ...
 * Blog post or video explaining the problem and proposed solution for a general audience.
 
 ## Bibliography
-* M. Neukomm, V. Nubbe, and R. Fares, “Grid-Interactive Efficient Buildings Technical Report Series: Overview of Research Challenges and Gaps,” NREL/TP-5500-75470, DOE/GO-102019-5227, 1577966, Dec. 2019. doi: 10.2172/1577966.
-* T. Brudermüller and M. Kreft, “Smart Meter Data Analytics: Practical Use-Cases and Best Practices of Machine Learning Applications for Energy Data in the Residential Sector,” presented at the ICLR 2023 Workshop: Tackling Climate Change with Machine Learning, Kigali, Rwanda, 2023.
-* K. Nweye, A. Wu, H. Park, Y. Almilaify, and Z. Nagy, “CityLearn: A Tutorial on Reinforcement Learning Control for Grid-Interactive Efficient Buildings and Communities,” presented at the ICLR 2023 Workshop: Tackling Climate Change with Machine Learning, Kigali, Rwanda, 2023.
+* Wang, J., & Fazlyab, M. (2024). Actor-Critic Physics-informed Neural Lyapunov Control. arXiv preprint arXiv:2403.08448.
+* 
 
 
