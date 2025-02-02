@@ -8,9 +8,9 @@ excerpt: TBA.
 
 ## Motivation
 
-This project aims to explore the injection of prior information coming from first-principle models into deep learning models to forecast time series coming from air pollution data. 
+This project investigates the integration of first-principle fluid dynamic models into deep learning frameworks to enhance air pollution time series forecasting. By leveraging these models, we aim to guide the learning process of neural networks, hypothesizing that this will improve their ability to capture pollutant dispersion patterns. The approach will be evaluated by comparing the performance of standard deep learning models with their physics-enhanced counterparts, assessing improvements in prediction accuracy, generalizability, and interpretability.
 
-The idea is to use selected fluid dynamic models to influence the output of deep and evaluate the performance change.
+This project is the continuation of [Design of a Deep Learning approach to simulate and forecast smog clouds](/ideas-projects/2022-air-medellin).
 
 <div style="text-align: center;">
     <img src="/images/pollution.jpg"
@@ -22,31 +22,23 @@ The idea is to use selected fluid dynamic models to influence the output of deep
 ## Tasks and Timeline
 
 ### Stage 1:
-* Frame the air pollution forecasting problem in terms physics enhance machine learning.
-* Review the state-of-the-art and proposed solutions in the literature;
-* Familiarize with the proposed deep learning baseline.
+* Familiarize with the codebase of pollution forecasting;
+* Review the state-of-the-art for physics enhanced ML in fluid dynamics problems;
 * Brainstorm potential fluid-dynamic models to enhance the deep learning baseline.
 
 ### Stage 2:
 * Plan the experiments and tests for the expected solution;
-* Collect and describe environmental data related to air pollution;
-* Develop a pre-processing data pipeline;
-* Select meaningful features from the dataset;
-* Design a proof-of-concept for potential solutions via minimum viable product concept;
-* Analyze the proposed proof-of-concept.
-
-### Stage 3: 
+* Adapt the selected fluid-dynamic models to the training of deep learning models;
 * Evaluate the proof-of-concept with the proposed experiments and tests;
 * Benchmark the proof-of-concept against other solutions in the literature.
 
-### Stage 4: 
+### Stage 3: 
 * Document the problem description and solution-design methodology;
 * Show the results to reviewers and non-technical audiences.
 
 ## Expected Outcomes
 
 ### Mandatory Products
-* Simulation of smog clouds forecasting;
 * Mathematical analysis of the proposed algorithm;
 * Software with documentation associated with the project;
 * Technical report with problem description, proposed solutions, experimental results, and project conclusions by following the University guidelines;
@@ -58,5 +50,6 @@ The idea is to use selected fluid dynamic models to influence the output of deep
 * Blog post or video explaining the problem and proposed solution for a general audience.
 
 ## Bibliography
+* Oldenburg, V., Cardenas-Cartagena, J., and Valdenegro-Toro, M., “Forecasting Smog Clouds With Deep Learning”, <i>arXiv e-prints</i>, Art. no. arXiv:2410.02759, 2024. doi:10.48550/arXiv.2410.02759.
 * P. O’Driscoll, J. Lee, and B. Fu, “Physics Enhanced Artificial Intelligence,” arXiv:1903.04442, Mar. 2019, Accessed: May 09, 2020. Available: http://arxiv.org/abs/1903.04442
 * Q. Tao, F. Liu, Y. Li, and D. Sidorov, “Air Pollution Forecasting Using a Deep Learning Model Based on 1D Convnets and Bidirectional GRU,” IEEE Access, vol. 7, pp. 76690–76698, 2019, doi: 10.1109/ACCESS.2019.2921578.
