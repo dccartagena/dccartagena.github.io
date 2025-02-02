@@ -3,7 +3,7 @@ title: "Physics-Enhanced ML for time series forecasting in air pollution"
 collection: supervision_proposals
 permalink: /ideas-projects/2025-peml-pollution
 date: 2025-01-16
-excerpt: TBA.
+excerpt: This project investigates the integration of first-principle fluid dynamic models into deep learning frameworks to enhance air pollution time series forecasting. 
 ---
 
 ## Motivation
