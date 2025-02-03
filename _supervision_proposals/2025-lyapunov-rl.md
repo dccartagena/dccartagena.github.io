@@ -56,9 +56,9 @@ Integrating concepts from control theory in RL can enhance the safe behavior of 
 
 [2] Grüne, L. (2020). Computing Lyapunov functions using deep neural networks. arXiv preprint arXiv:2005.08965.
 
-* Chang, Y. C., Roohi, N., & Gao, S. (2019). Neural lyapunov control. Advances in neural information processing systems, 32.
+[3] Chang, Y. C., Roohi, N., & Gao, S. (2019). Neural lyapunov control. Advances in neural information processing systems, 32.
 
-* Du, D., Han, S., Qi, N., Ammar, H. B., Wang, J., & Pan, W. (2023, May). Reinforcement learning for safe robot control using control lyapunov barrier functions. In 2023 IEEE International Conference on Robotics and Automation (ICRA) (pp. 9442-9448). IEEE.
+[4] Du, D., Han, S., Qi, N., Ammar, H. B., Wang, J., & Pan, W. (2023, May). Reinforcement learning for safe robot control using control lyapunov barrier functions. In 2023 IEEE International Conference on Robotics and Automation (ICRA) (pp. 9442-9448). IEEE.
 
-* Gaby, N., Zhang, F., & Ye, X. (2022, December). Lyapunov-Net: A deep neural network architecture for Lyapunov function approximation. In 2022 IEEE 61st Conference on Decision and Control (CDC) (pp. 2091-2096). IEEE.
+[5] Gaby, N., Zhang, F., & Ye, X. (2022, December). Lyapunov-Net: A deep neural network architecture for Lyapunov function approximation. In 2022 IEEE 61st Conference on Decision and Control (CDC) (pp. 2091-2096). IEEE.
 
