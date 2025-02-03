@@ -3,7 +3,7 @@ title: "Lyapunov functions for Safe Deep Reinforcement Learning"
 collection: supervision_proposals
 permalink: /ideas-projects/2025-lyapunov-safe-rl
 date: 2025-01-16
-excerpt: TBA
+excerpt: In this project, we aim to learn Lyapunov functions using DNNs and leverage them to guide the training of actor-critic agents toward safe behavior.
 ---
 
 ## Motivation
