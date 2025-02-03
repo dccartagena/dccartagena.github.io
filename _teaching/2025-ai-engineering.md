@@ -1,10 +1,10 @@
 ---
-title: "Machine Learning for Industry"
+title: "AI Engineering"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024-ml4i
+permalink: /teaching/2025-ai-engineering
 venue: "University of Groningen, Bachelor's in Artificial Intelligences"
-date: 2024-09-01
+date: 2025-02-01
 location: "Groningen, The Netherlands"
 excerpt: TBA
 ---
