@@ -45,7 +45,7 @@ redirect_from:
 
 * **Industry Knowledge:** Research, Engineering Design, Agile methodologies, Design Thinking, Co-Creation
 * **Programming Languages:** Python, Matlab, SQL
-* **Relevant libraries:** TensorFlow, Keras, Horovod, Pandas, Numpy, Matplotlib
+* **Relevant libraries:** Pytorch, TensorFlow, Keras, Horovod, Pandas, Numpy, Matplotlib
 * **Coding tools:** Version control (GIT/GitHub), Docker, LaTeX, Web design
 * **Prototyping tools:** 3D printing, Inventor Fusion, Siemens Solid Edge, Altium, Arduino, PIC Microcontroller
 
