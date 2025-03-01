@@ -2,7 +2,7 @@
 layout: single
 date: 2025-03-01
 permalink: posts/2025/03/comedy-and-teaching/
-title:  "How improve comedy has influenced my teaching style "
+title:  "How improv comedy has influenced my teaching style "
 ---
 
 ...
