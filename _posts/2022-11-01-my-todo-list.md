@@ -23,7 +23,7 @@ Let me share with you my to-do list for the next decades. Some activities are ch
 - [ ] Visit the Mont-Saint-Michel, France
 - [ ] Drift a car on a frozen lake
 - [ ] Become a certified skydiver
-- [ ] Learn how to make macarooons
+- [ ] Learn how to make macaroons
 - [ ] Assist to a Rock in Rio
 - [X] ~~Live in Europe~~
 - [X] ~~Take a picture next to the Eiffel Tower~~
