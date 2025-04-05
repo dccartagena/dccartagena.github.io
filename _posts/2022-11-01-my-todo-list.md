@@ -5,7 +5,7 @@ permalink: posts/2022/10/todo-list/
 title:  "My to-do list"
 ---
 
-Let me share with you my to-do list for the next decades. Some activities are charitable, others are laughable, and others are random. We will see how many are completed in the future. Last update: 27. October '22.
+Let me share with you my to-do list for the next decades. Some activities are charitable, others are laughable, and others are random. We will see how many are completed in the future. Last update: 5. April '25.
 
 ***Keywords*** --- to-do list, goals, personal deveolpemnt.
 
@@ -23,6 +23,7 @@ Let me share with you my to-do list for the next decades. Some activities are ch
 - [ ] Visit the Mont-Saint-Michel, France
 - [ ] Drift a car on a frozen lake
 - [ ] Become a certified skydiver
+- [ ] Learn how to make macarooons
 - [ ] Assist to a Rock in Rio
 - [X] ~~Live in Europe~~
 - [X] ~~Take a picture next to the Eiffel Tower~~
@@ -46,7 +47,7 @@ Let me share with you my to-do list for the next decades. Some activities are ch
 - [ ] Place an Eric Joyner's robots and donuts picture in my house
 - [ ] Meet Jordi Cruz
 - [X] ~~Drink tea in the UK~~
-- [ ] Become an elder Lord in Elden Ring
+- [X] ~~Become an elder Lord in Elden Ring~~
 - [ ] Meet Sebastian Thrun
 - [ ] Meet Juanes
 - [ ] Get married with my crush
@@ -61,6 +62,8 @@ Let me share with you my to-do list for the next decades. Some activities are ch
 - [ ] Become a voice actor
 - [ ] Participate in a zombie walk
 - [ ] Visit Kathmandu
+- [ ] Visit La Alhambra
+- [ ] Learn how to snowboard
 
 ## Some final thoughts
 I will do my best to fulfill this list. Also, I will likely add more activities in the future as my personal goals are dynamic. So, stay tuned for further updates.
