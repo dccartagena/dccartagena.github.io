@@ -2,7 +2,7 @@
 layout: single
 date: 2022-12-26
 permalink: posts/2022/12/colombian-karma/
-title:  "Do you sell coc...The Colombian karma"
+title:  "Do you sell coooooooo...ffee: The Colombian karma"
 ---
 
 Christmas in 2022 has been weird for me due to unexpected and undesired events. However, I wanted to make this post about my nationality for future reference as it is a common topic that brings uncomfortable talks. Indeed, I got used to the phrase "do you sell drugs?" within the first 10 minutes of an introductory conversation with someone new, even in a professional setting. For the record, I do not sell drugs and am not involved in any of those businesses. Nevertheless, the Colombian nationality seems like a curse due to unwanted fame from the 70's - 90's decades and TV shows with distorted information. I aim to demystify Colombian nationality from the point of view of a researcher living outside Colombia.
