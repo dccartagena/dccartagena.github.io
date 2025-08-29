@@ -10,6 +10,13 @@ excerpt: This project aims to design RL-based control strategies for safe insuli
 
 While PID and MPC controllers are capable of managing insulin delivery for type 1 diabetes (T1D) patients, they often struggle with common disturbances like meals, exercise, and physiological stress. These events introduce significant uncertainty and rapid changes in glucose dynamics that classical control algorithms may not handle effectively, requiring proactive patient intervention to maintain stable blood glucose levels. This project aims to use reinforcement learning (RL) for an insulin delivery controller. The goal is to leverage the adaptability of RL policies to handle patient-specific dynamics, uncertainty, and disturbances. However, a major challenge is ensuring the controller's decisions are (near-)safe and computationally efficient for a small, battery-powered medical device.
 
+<div style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Blue_circle_for_diabetes.svg/200px-Blue_circle_for_diabetes.svg.png"
+        alt="blue circle"
+        style="display: block; margin-left: auto; margin-right: auto;" />
+    <figcaption>A blue circle, the symbol for diabetes. Image is taken from <a href="https://en.wikipedia.org/wiki/Type_1_diabetes">wikipedia.org/...</a></figcaption>
+</div>
+
 ## Tasks and Timeline
 
 ### Stage 1:
