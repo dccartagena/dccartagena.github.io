@@ -8,7 +8,7 @@ excerpt: This project proposes to build a system based on physics-informed GNN t
 
 ## Motivation
 
-This project proposes leveraging a physics-informed Graph Neural Network (GNN) for multi-pollutant air quality forecasting in the Netherlands. By integrating a local advection model, we will guide the GNN's learning process, thereby improving its ability to capture complex spatiotemporal dependencies and generalize across various pollutants. The core objective is to scale an existing single-pollutant forecasting model for the Randstad area into a country-wide system capable of handling multiple pollutants, and then compare its performance against state-of-the-art foundation models for air pollution.
+This project proposes leveraging a physics-informed Graph Neural Network (PIGNN) for multi-pollutant air quality forecasting in the Netherlands. By integrating a local advection model, we will guide the GNN's learning process, thereby improving its ability to capture complex spatiotemporal dependencies and generalize across various pollutants. The core objective is to scale an existing single-pollutant forecasting model for the Randstad area into a country-wide system capable of handling multiple pollutants, and then compare its performance against state-of-the-art foundation models for air pollution.
 
 This project is the continuation of [Design of a Deep Learning approach to simulate and forecast smog clouds](/ideas-projects/2022-air-medellin) and [Physics-Enhanced ML for time series forecasting in air pollution](https://dccartagena.github.io/ideas-projects/2025-peml-pollution).
 
@@ -24,12 +24,14 @@ This project is the continuation of [Design of a Deep Learning approach to simul
 ### Stage 1:
 * Familiarize with the codebase and API of pollution forecasting;
 * Review the state-of-the-art for physics enhanced ML in fluid dynamics problems with a focus on GNNs;
-* ...
+* Delimitate the solution concept: We aim to develop a lightweight and trustworthy PIGNN-based system capable of forecasting several air pollutants across the country.
 
 ### Stage 2:
 * Plan the experiments and tests for the expected solution;
-* ...
-* 
+* Adapt the current data and feature pipeline with a focus on scalability;
+* Propose relevant metrics related to performance, trustworthiness, and computational resources, to analyse the experiments;
+* Implement relevant baselines based on foundation models for air pollution;
+* Design a proof-of-concepts of a scalable PIGNN-based system for multi-pollutant forecasting.
 * Evaluate the proof-of-concept with the proposed experiments and tests;
 * Benchmark the proof-of-concept against other solutions in the literature.
 
