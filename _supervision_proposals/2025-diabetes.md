@@ -3,12 +3,12 @@ title: "Developing a Safe Insulin Dosing Algorithm for Type 1 Diabetes with Rein
 collection: supervision_proposals
 permalink: /ideas-projects/2025-diabetes
 date: 2025-08-29
-excerpt: This project aims to design RL-based control strategies for safe insulin dosing for Type 1 Diabetes patients.
+excerpt: This project aims to design RL-based control strategies for safe insulin dosing for Type 1 Diabetes (T1D) patients.
 ---
 
 ## Motivation
 
-...
+While PID and MPC controllers are capable of managing insulin delivery for type 1 diabetes (T1D) patients, they often struggle with common disturbances like meals, exercise, and physiological stress. These events introduce significant uncertainty and rapid changes in glucose dynamics that classical control algorithms may not handle effectively, requiring proactive patient intervention to maintain stable blood glucose levels. This project aims to use reinforcement learning (RL) for an insulin delivery controller. The goal is to leverage the adaptability of RL policies to handle patient-specific dynamics, uncertainty, and disturbances. However, a major challenge is ensuring the controller's decisions are (near-)safe and computationally efficient for a small, battery-powered medical device.
 
 ## Tasks and Timeline
 
@@ -49,3 +49,4 @@ excerpt: This project aims to design RL-based control strategies for safe insuli
 ## Bibliography
 * Emerson, H., Guy, M., & McConville, R. (2023). Offline reinforcement learning for safer blood glucose control in people with type 1 diabetes. Journal of Biomedical Informatics, 142, 104376.
 * Jinyu Xie. Simglucose v0.2.1 (2018) [Online]. Available: https://github.com/jxx123/simglucose.
+* Aguirre-Zapata, E., Cardenas-Cartagena, J., & Garcia-Tirado, J. (2017). Glycemic monitoring in critical care using nonlinear state estimators. IFAC-PapersOnLine, 50(1), 4430-4435.
