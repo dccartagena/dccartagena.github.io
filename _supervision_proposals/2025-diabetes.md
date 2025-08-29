@@ -38,7 +38,7 @@ While PID and MPC controllers are capable of managing insulin delivery for type 
 * Plan the experiments and test for the expected solution;
 * Propose relevant metrics related to performance, safety, and computational resources, to analyse the experiments.
 * Evaluate the proof-of-concept with the proposed experiments and tests;
-* Benchmark the proof-of-concept against relevant baselines and other solutions in the literature. 
+* Benchmark the proof-of-concept against relevant baselines and other solutions in the literature; 
 
 ## Expected Outcomes
 
@@ -46,7 +46,7 @@ While PID and MPC controllers are capable of managing insulin delivery for type 
 * Mathematical analysis of the proposed algorithm;
 * Software with documentation associated with the project;
 * Technical report with problem description, proposed solutions, experimental results, and project conclusions by following the University guidelines;
-* A public dissertation following the University guidelines.
+* A public dissertation following the University guidelines;
 
 ### Optional Products
 * Summary paper from the technical report suitable for conferences or journals;
