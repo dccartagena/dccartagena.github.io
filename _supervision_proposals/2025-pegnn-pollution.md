@@ -1,14 +1,14 @@
 ---
-title: "Physics Enhanced GNN for Time Series Forecasting in Air Pollution for the Netherlands"
+title: "Scaling Up Physics-Informed Graph Neural Networks for Air Pollution Forecasting in the Netherlands"
 collection: supervision_proposals
-permalink: /ideas-projects/2025-peml-pollution
+permalink: /ideas-projects/2025-pegnn-pollution
 date: 2025-08-29
 excerpt: This project investigates the integration of first-principle fluid dynamic models into deep learning frameworks to enhance air pollution time series forecasting. 
 ---
 
 ## Motivation
 
-This project investigates the integration of first-principle fluid dynamic models into deep learning frameworks to enhance air pollution time series forecasting. By leveraging these models, we aim to guide the learning process of neural networks, hypothesizing that this will improve their ability to capture pollutant dispersion patterns. The approach will be evaluated by comparing the performance of standard deep learning models with their physics-enhanced counterparts, assessing improvements in prediction accuracy, generalizability, and interpretability.
+...
 
 This project is the continuation of [Design of a Deep Learning approach to simulate and forecast smog clouds](/ideas-projects/2022-air-medellin) and [Physics-Enhanced ML for time series forecasting in air pollution](https://dccartagena.github.io/ideas-projects/2025-peml-pollution).
 
@@ -22,13 +22,14 @@ This project is the continuation of [Design of a Deep Learning approach to simul
 ## Tasks and Timeline
 
 ### Stage 1:
-* Familiarize with the codebase of pollution forecasting;
-* Review the state-of-the-art for physics enhanced ML in fluid dynamics problems;
-* Brainstorm potential fluid-dynamic models to enhance the deep learning baseline.
+* Familiarize with the codebase and API of pollution forecasting;
+* Review the state-of-the-art for physics enhanced ML in fluid dynamics problems with a focus on GNNs;
+* ...
 
 ### Stage 2:
 * Plan the experiments and tests for the expected solution;
-* Adapt the selected fluid-dynamic models to the training of deep learning models;
+* ...
+* 
 * Evaluate the proof-of-concept with the proposed experiments and tests;
 * Benchmark the proof-of-concept against other solutions in the literature.
 
