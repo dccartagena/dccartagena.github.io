@@ -3,7 +3,7 @@ title: "Developing a Safe Insulin Dosing Algorithm for Type 1 Diabetes with Rein
 collection: supervision_proposals
 permalink: /ideas-projects/2025-diabetes
 date: 2025-08-29
-excerpt: This project aims to explore RL-based control strategies for safe insulin dosing for Type 1 Diabetes patients.
+excerpt: This project aims to design RL-based control strategies for safe insulin dosing for Type 1 Diabetes patients.
 ---
 
 ## Motivation
@@ -13,13 +13,25 @@ excerpt: This project aims to explore RL-based control strategies for safe insul
 ## Tasks and Timeline
 
 ### Stage 1:
-...
+
+* Define the safe reinforcement learning problem in insulin dosing for Type 1 Diabetes;
+* Delimitate the solution concept: We aim for a lightweight RL-based control system capable of using notions of risk in its policies for insulin dosing.
+* Review the state-of-the-art and proposed solutions in the literature;
+* Brainstorm potential solutions for the problem and propose concept designs.
 
 ### Stage 2:
-...
+
+* Set up a suitable Type-1 Diabetes simulator environment for experimentation;
+* Develop a data and feature pipeline with a focus on a risk notion;
+* Implement relevant baselines, from classical control (Model predictive control and PID) to risk-neutral RL algorithms (Q-learning, PPO, ...)
+* Design a proof-of-concepts of safe RL-based controllers as potential solutions via minimum viable product concept;
 
 ### Stage 3: 
-...
+
+* Plan the experiments and test for the expected solution;
+* Propose relevant metrics related to performance, safety, and computational resources, to analyse the experiments.
+* Evaluate the proof-of-concept with the proposed experiments and tests;
+* Benchmark the proof-of-concept against relevant baselines and other solutions in the literature. 
 
 ## Expected Outcomes
 
