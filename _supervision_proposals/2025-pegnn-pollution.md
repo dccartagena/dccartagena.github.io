@@ -13,10 +13,10 @@ This project proposes leveraging a physics-informed Graph Neural Network (PIGNN)
 This project is the continuation of [Design of a Deep Learning approach to simulate and forecast smog clouds](/ideas-projects/2022-air-medellin) and [Physics-Enhanced ML for time series forecasting in air pollution](https://dccartagena.github.io/ideas-projects/2025-peml-pollution).
 
 <div style="text-align: center;">
-    <img src="/images/pollution.jpg"
-        alt="Linea de transmicion."
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Nitrogen_dioxide_over_the_Netherlands_%28TROPOMI%2C_2017-12-01%29.png/960px-Nitrogen_dioxide_over_the_Netherlands_%28TROPOMI%2C_2017-12-01%29.png?20171202110419"
+        alt="Nitrogen dioxide over the Netherlands."
         style="display: block; margin-left: auto; margin-right: auto;" />
-    <figcaption><a href="https://commons.wikimedia.org/wiki/File:IJmuiden,_the_Netherlands_(9043390013).jpg">Ineke Huizing from Alphen aan den Rijn, the Netherlands</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons</figcaption>
+    <figcaption>Nitrogen dioxide over the Netherlands. Image is taken from <a href="https://commons.wikimedia.org/wiki/File:Nitrogen_dioxide_over_the_Netherlands_%28TROPOMI,_2017-12-01%29.png">wikimedia.org/...</a></figcaption>
 </div>
 
 ## Tasks and Timeline
