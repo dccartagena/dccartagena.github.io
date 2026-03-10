@@ -1,0 +1,9 @@
+freeze: true
+
+date-format: "YYYY-MM-DD"
+
+toc: true
+toc-title: Contents
+
+author:
+  - name: J.D. Cardenas Cartagena

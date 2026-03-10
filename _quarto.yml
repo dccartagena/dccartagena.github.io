@@ -1,21 +1,37 @@
 project:
   type: website
+  output-dir: _site
+  preview: 
+    browser: true
+    port: 4200
 
 website:
   title: "dccartagena.github.io"
+  description: "Personal website of J.D. Cardenas Cartagena"
+  site-url: "https://dccartagena.github.io"
+  repo-url: "https://github.com/dccartagena/dccartagena.github.io"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+      - href: blog/index.qmd
+        text: Blog
+
+  page-footer: 
+    center: "Copyright © 2026 J.D. Cardenas Cartagena"
 
 format:
   html:
     theme:
-      - cosmo
+      - darkly
       - brand
     css: styles.css
-    toc: true
+    smooth-scroll: true
+    toc: false
 
 
 
