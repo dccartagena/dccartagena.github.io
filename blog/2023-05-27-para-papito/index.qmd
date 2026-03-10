@@ -4,6 +4,7 @@ title:  "Para Papito"
 toc: false
 categories:
     - Poetry
+    - Spanish
 ---
 This poem is dedicated to someone who gave me the best days of my childhood.
 

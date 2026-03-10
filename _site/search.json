@@ -341,5 +341,61 @@
     "title": "Let us talk about academic writing and presenting",
     "section": "Some final thoughts",
     "text": "Some final thoughts\nDeveloping technical writing and presentation skills is a process that requires both practice and experience. Effective authors and presenters must not only captivate their audience with the story behind their project, but also provide guidance on how to apply their results to future research. Hence, it is important to write papers, seek feedback, and refine a style. By doing so, you can become a more effective communicator.\n*Disclaimer: This post represents my personal opinion. I am not responsible for any content on external sites."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Machine Learning Engineer, Youwe Concept B.V., The Netherlands, 2026 - Present\n\n…\n\nLecturer in Artificial Intelligence, University of Groningen, The Netherlands, 2023 - 2026\n\nTeach and design undergraduate and graduate-level courses in artificial intelligence, covering topics such as Signals and Systems, Reinforcement Learning, and Machine Learning.\nSupervise Bachelor’s and Master’s thesis projects, guiding students in the application of AI principles and research methodologies.\n\nTeaching Assistant, Wisenet Center - University of Agder, Norway, 2021-2022\n\nSupported the design of the Ph.D. course in Deep Reinforcement Learning.\nTaught lectures in advanced reinforcement learning algorithms to doctoral students.\n\nTeaching Assistant, Queen’s University, Canada, 2018-2019\n\nTutored in Linear Algebra, Statistics, and Differential Equations courses.\n\nProject Assistant, General Hospital of Medellin, Colombia, 2016 - 2017\n\nDesigned a MakerSpace for healthcare-related projects inside the Hospital.\nDeveloped learning activities about co-creation methodologies for healthcare professionals.\nPrototyped two devices related to hand-washing monitoring and sterilization process for intra-hospital use by utilizing the proposed co-creation methodology in the MakerSpace.\nSupervised biomedical engineering students in projects about innovation in medical devices.\n\nStudent Intern, RWTH Aachen University, Germany, Winter 2015\n\nDesigned algorithms to compute the size of aerosol particles from laser beam intensities.\nTested a Bayesian inversion method to estimate the size of aerosol particles in a controlled environment."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nPh.D in Engineering and Science, University of Agder, Norway, 2026 (expected)\n\nProject: Safe Deep Reinforcement Learning Techniques for Data-Driven Adaptive Control\nSelected courses: Convex and Non-convex Optimization, Deep Learning, Statistical Signal Processing.\n\nM.Sc. in Mathematics and Statistics, Queen’s University, Canada, 2019\n\nProject: On the Kalman filter with intermittent observations\nSelected courses: Stochastic Control, Modern Control Theory, Data Compression And Source Coding.\n\nB.S. in Mechatronics Engineering, EIA University, Colombia, 2016\n\nProject: Autonomous mobile robot navigation using particle filtering in the localization stage.\nSelected courses: Robotics, Artificial Intelligence, Continuous And Discrete Control, Mechatronics Design"
+  },
+  {
+    "objectID": "cv.html#work-experience",
+    "href": "cv.html#work-experience",
+    "title": "CV",
+    "section": "",
+    "text": "Machine Learning Engineer, Youwe Concept B.V., The Netherlands, 2026 - Present\n\n…\n\nLecturer in Artificial Intelligence, University of Groningen, The Netherlands, 2023 - 2026\n\nTeach and design undergraduate and graduate-level courses in artificial intelligence, covering topics such as Signals and Systems, Reinforcement Learning, and Machine Learning.\nSupervise Bachelor’s and Master’s thesis projects, guiding students in the application of AI principles and research methodologies.\n\nTeaching Assistant, Wisenet Center - University of Agder, Norway, 2021-2022\n\nSupported the design of the Ph.D. course in Deep Reinforcement Learning.\nTaught lectures in advanced reinforcement learning algorithms to doctoral students.\n\nTeaching Assistant, Queen’s University, Canada, 2018-2019\n\nTutored in Linear Algebra, Statistics, and Differential Equations courses.\n\nProject Assistant, General Hospital of Medellin, Colombia, 2016 - 2017\n\nDesigned a MakerSpace for healthcare-related projects inside the Hospital.\nDeveloped learning activities about co-creation methodologies for healthcare professionals.\nPrototyped two devices related to hand-washing monitoring and sterilization process for intra-hospital use by utilizing the proposed co-creation methodology in the MakerSpace.\nSupervised biomedical engineering students in projects about innovation in medical devices.\n\nStudent Intern, RWTH Aachen University, Germany, Winter 2015\n\nDesigned algorithms to compute the size of aerosol particles from laser beam intensities.\nTested a Bayesian inversion method to estimate the size of aerosol particles in a controlled environment."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\n\nIndustry Knowledge: Research, Engineering Design, Agile methodologies, Design Thinking, Co-Creation\nProgramming Languages: Python, Matlab, SQL\nRelevant libraries: Pytorch, TensorFlow, Keras, Horovod, Pandas, Numpy, Matplotlib\nCoding tools: Version control (GIT/GitHub), Docker, LaTeX, Web design\nPrototyping tools: 3D printing, Inventor Fusion, Siemens Solid Edge, Altium, Arduino, PIC Microcontroller"
+  },
+  {
+    "objectID": "cv.html#grants",
+    "href": "cv.html#grants",
+    "title": "CV",
+    "section": "Grants",
+    "text": "Grants\n\nColfuturo scholarship-loan, Colfuturo, Colombia, 2017\n\nGrant issued by the Foundation for the Future of Colombia (Colfuturo) and the Colombian ministry of science, technology, and innovation. I used the grant in my graduate studies at Queen’s University.\n\nFondo Sapiencia - EPM, Sapiencia Medellin, Colombia, 2011\n\nGrant issued by the higher education agency of the Medellin Mayor’s office (Sapiencia). I used the grant in my bachelor studies at EIA University."
+  },
+  {
+    "objectID": "cv.html#awards",
+    "href": "cv.html#awards",
+    "title": "CV",
+    "section": "Awards",
+    "text": "Awards\n\nTeacher of The Year Award for AI & CCS, Programme Committee AI & CCS - University of Groningen, The Netherlands, 2025\n\n…\n\nFinalist at the Forsker Grand Prix, University of Agder, Norway, 2020\n\nFinalist in the science popularisation contest Forsker Grand Prix with my talk “Helping machines to make safe actions.”\n\nOrchid gold award, Medellin Council, Colombia, 2014\n\nThe Medellin Council awarded my robotics team with the Orchid gold award for our developments in mobile robots for international competitions between universities.\n\nChampion at RoboRave International, RoboRave, USA, 2014\n\nOur team participated in the RoboRave International 2014 and won first place in the Fire Fighting challenge with an own made autonomous mobile robot based on an Arduino platform and PIC microcontroller.\n\nChampion at RoboRave Colombia, RoboRave, Colombia, 2013\n\nMy team participated in the RoboRave Colombia 2013 and won first place in the Fire Fighting challenge with an own made autonomous mobile robot based on an Arduino platform."
+  },
+  {
+    "objectID": "cv.html#service-and-leadership",
+    "href": "cv.html#service-and-leadership",
+    "title": "CV",
+    "section": "Service and leadership",
+    "text": "Service and leadership\n\nReviewer, 2022-Present\n\nReview scientific papers for multiple conferences and journals in the field of artificial intelligence and control.\n\nAcademic and skills development coordinator, UiAdoc, Norway, 2021-2022\n\nOrganized events to support the professional development of doctoral researchers in Agder.\n\nEvent organizer, ACI Medellin, Colombia, 2021-2021\n\nOrganized virtual conferences in science popularization and cultural exchange for small businesses in the city.\n\nCommunity manager, IEEE Colombia, Colombia, 2019\n\nCommunity manager in charge of the social media accounts to promote the 4th IEEE Colombian Conference on Automatic Control.\n\nStudent mentor, Clubes de Ciencia Colombia, Colombia, 2017\n\nDevelop a workshop related to 3D printing technology and CAD modelling to prototype medical devices, with a target audience of young people between 13 and 18 years old.\n\nStudent mentor, Parque Explora, Colombia, 2016\n\nSupport a school research project for a local academic event, whose objective was the development of a robotic manipulator prototype for use in chemical laboratories."
+  },
+  {
+    "objectID": "cv.html#language",
+    "href": "cv.html#language",
+    "title": "CV",
+    "section": "Language",
+    "text": "Language\n\nSpanish: Native proficiency\nEnglish: Professional working proficiency\nNorwegian: Limited working proficiency"
   }
 ]
