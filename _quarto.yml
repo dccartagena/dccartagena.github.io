@@ -24,6 +24,9 @@ website:
   page-footer: 
     center: "Copyright © 2026 J.D. Cardenas Cartagena"
 
+execute:
+  freeze: auto
+
 format:
   html:
     theme:
