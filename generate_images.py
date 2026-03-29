@@ -2,7 +2,7 @@
 from PIL import Image, ImageDraw, ImageFont
 import os
 
-BASE_DIR = "/home/dccartagena/projects/dccartagena.github.io"
+BASE_DIR = os.environ.get("OG_IMAGE_BASE_DIR", os.path.dirname(os.path.abspath(__file__)))
 
 # Brand colors
 TEAL      = (96, 165, 250)

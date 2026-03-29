@@ -4,13 +4,12 @@ comments: false
 bibliography: publications.bib
 csl: apa-with-annote.csl
 nocite: "@*"
+filters:
+  - bib-links.lua
 ---
 
 Below is a full list of my publications. For an always up-to-date list, visit my
-[Google Scholar profile](https://scholar.google.com/citations?user=REPLACE_WITH_YOUR_ID).
-
-> **To add your papers:** replace `publications.bib` with the BibTeX file exported from Google Scholar.  
-> Add `annote = {One-sentence summary.},` inside any BibTeX entry to show a summary here.
+[Google Scholar profile](https://scholar.google.com/citations?user=kvdSZLEAAAAJ&hl=en).
 
 ::: {#refs}
 :::

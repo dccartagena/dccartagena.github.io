@@ -85,9 +85,6 @@
           <if variable="DOI">
             <text variable="DOI" prefix=". https://doi.org/"/>
           </if>
-          <else-if variable="URL">
-            <text variable="URL" prefix=". "/>
-          </else-if>
         </choose>
       </if>
       <else-if type="paper-conference">
@@ -99,9 +96,6 @@
           <if variable="DOI">
             <text variable="DOI" prefix=". https://doi.org/"/>
           </if>
-          <else-if variable="URL">
-            <text variable="URL" prefix=". "/>
-          </else-if>
         </choose>
       </else-if>
       <else-if type="book">
@@ -158,8 +152,8 @@
       <key variable="issued" sort="descending"/>
       <key macro="author"/>
     </sort>
-    <layout suffix=".">
-      <group delimiter=" ">
+    <layout>
+      <group delimiter=" " suffix=".">
         <text macro="author" suffix="."/>
         <text macro="issued" prefix="(" suffix=")."/>
         <text macro="title" suffix="."/>
@@ -167,7 +161,12 @@
       </group>
       <choose>
         <if variable="annote">
-          <text variable="annote" prefix=" &#8212; "/>
+          <text variable="annote" display="block"/>
+        </if>
+      </choose>
+      <choose>
+        <if variable="URL">
+          <text variable="URL" display="block" prefix="↗ "/>
         </if>
       </choose>
     </layout>

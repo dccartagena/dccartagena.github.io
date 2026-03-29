@@ -11,7 +11,10 @@ comments: false
 ::: {.column style="width:30%;"}
 <div class="hero-left">
 
-![J.D. Cardenas Cartagena](images/profile.png){.hero-img}
+![](images/profile.png){.hero-img}
+
+<p class="hero-left-name">J.D. Cardenas Cartagena</p>
+<p class="hero-left-tagline">Researcher & ML Engineer · Trustworthy AI for safety-critical systems</p>
 
 <div class="hero-social-links">
   <a class="hero-social-btn" href="https://github.com/dccartagena" target="_blank" rel="noopener" aria-label="GitHub">
@@ -20,10 +23,10 @@ comments: false
   <a class="hero-social-btn" href="https://www.linkedin.com/in/dccartagena" target="_blank" rel="noopener" aria-label="LinkedIn">
     <i class="bi bi-linkedin"></i>
   </a>
-  <a class="hero-social-btn" href="https://scholar.google.com/citations?user=REPLACE_WITH_YOUR_ID" target="_blank" rel="noopener" aria-label="Google Scholar">
+  <a class="hero-social-btn" href="https://scholar.google.com/citations?user=kvdSZLEAAAAJ" target="_blank" rel="noopener" aria-label="Google Scholar">
     <i class="bi bi-mortarboard-fill"></i>
   </a>
-  <a class="hero-social-btn" href="https://orcid.org/REPLACE_WITH_YOUR_ORCID" target="_blank" rel="noopener" aria-label="ORCID">
+  <a class="hero-social-btn" href="https://orcid.org/0000-0001-9718-6929" target="_blank" rel="noopener" aria-label="ORCID">
     <i class="bi bi-person-badge-fill"></i>
   </a>
 </div>
@@ -34,10 +37,6 @@ comments: false
 ::: {.column style="width:70%; padding-left:2.5rem;"}
 
 <h1 class="hero-title">J.D. Cardenas Cartagena</h1>
-
-::: {.hero-tagline}
-Researcher & ML Engineer · Trustworthy AI for safety-critical systems
-:::
 
 ::: {.hero-welcome}
 I am a researcher and engineer at the intersection of applied mathematics, control theory, and machine learning. My work focuses on designing **trustworthy AI agents** for safety-critical mechatronics systems — building techniques that are high-performing, provably safe, and interpretable.
@@ -51,7 +50,6 @@ Outside academia I enjoy analyzing geopolitics and finance, and I support educat
 
 - **Safe Reinforcement Learning** — constrained and risk-aware policy optimization
 - **Data-Driven Control** — adaptive and learning-based control for dynamical systems
-- **Gaussian Processes** — probabilistic uncertainty quantification in control systems
 - **Trustworthy AI** — interpretability, robustness, and formal verification of autonomous systems
 
 ## Teaching & Mentoring
@@ -60,12 +58,7 @@ At the University of Groningen I taught and co-designed undergraduate and gradua
 
 Outside academia I participate in science outreach and education initiatives aimed at engaging young people in science and research — particularly through programs in Colombia such as [Clubes de Ciencia Colombia](https://clubesdeciencia.co) and [Parque Explora](https://www.parqueexplora.org).
 
-## Contact
-
-I am open to academic collaborations, speaking invitations, and research discussions. Reach out via [LinkedIn](https://www.linkedin.com/in/dccartagena) or [GitHub](https://github.com/dccartagena).
-
 :::
-
 ::::
 :::
 
