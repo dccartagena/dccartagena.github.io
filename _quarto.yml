@@ -10,7 +10,7 @@ website:
   description: "Researcher & ML Engineer working on trustworthy AI for safety-critical systems."
   site-url: "https://dccartagena.github.io"
   repo-url: "https://github.com/dccartagena/dccartagena.github.io"
-  favicon: images/profile.png
+  favicon: images/favicon.svg
 
   open-graph:
     title: "J.D. Cardenas Cartagena"
