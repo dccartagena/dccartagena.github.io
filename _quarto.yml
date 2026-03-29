@@ -6,22 +6,41 @@ project:
     port: 4200
 
 website:
-  title: "dccartagena.github.io"
-  description: "Personal website of J.D. Cardenas Cartagena"
+  title: "J.D. Cardenas Cartagena"
+  description: "Researcher & ML Engineer working on trustworthy AI for safety-critical systems."
   site-url: "https://dccartagena.github.io"
   repo-url: "https://github.com/dccartagena/dccartagena.github.io"
+  favicon: images/profile.png
+
+  open-graph:
+    title: "J.D. Cardenas Cartagena"
+    description: "Researcher & ML Engineer working on trustworthy AI for safety-critical systems."
+    image: images/og-default.png
+    locale: en_US
+
+  twitter-card:
+    title: "J.D. Cardenas Cartagena"
+    description: "Researcher & ML Engineer working on trustworthy AI for safety-critical systems."
+    image: images/og-default.png
+    card-style: summary_large_image
+
   navbar:
     left:
-      - href: about.qmd
-        text: About
       - href: publications.qmd
         text: Publications
       - href: cv.qmd
         text: CV
       - href: blog/index.qmd
         text: Blog
+    right:
+      - icon: github
+        href: https://github.com/dccartagena
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/dccartagena
+        aria-label: LinkedIn
 
-  page-footer: 
+  page-footer:
     center: "Copyright © 2026 J.D. Cardenas Cartagena"
 
 execute:
@@ -31,7 +50,7 @@ format:
   html:
     theme:
       - darkly
-      - brand
+      - custom.scss
     css: styles.css
     smooth-scroll: true
     toc: false

@@ -1,6 +1,8 @@
 ---
 date: 2022-10-22
 title:  "Algunas enseñanzas para estudiantes Colombianos que quiera aplicar a un posgrado en el exterior"
+description: "Lecciones personales sobre aplicar a maestrías y doctorados en el exterior como estudiante colombiano: el proceso de aplicación, financiamiento, migración y los primeros días."
+image: ../../images/blog-thumbnail-default.png
 toc: true
 categories:
     - Grad School

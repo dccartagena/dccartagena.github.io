@@ -1,6 +1,8 @@
 ---
 date: 2022-10-22
 title:  "Let us talk about personal finances"
+description: "Practical lessons on managing expenses, saving strategies, and building a personal finance system — shared from the perspective of a frugal researcher living abroad."
+image: ../../images/blog-thumbnail-default.png
 toc: true
 categories:
     - Personal Finance

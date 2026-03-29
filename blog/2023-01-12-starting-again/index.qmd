@@ -1,6 +1,8 @@
 ---
 date: 2023-01-12
 title:  "Starting again"
+description: "Reflections on moving to a new country for the third time — the detachment, the anxiety, and why the adventure is always worth it."
+image: ../../images/blog-thumbnail-default.png
 toc: true
 categories: 
     - Immigration

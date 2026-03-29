@@ -1,6 +1,8 @@
 ---
 date: 2023-05-27
 title:  "Para Papito"
+description: "A poem dedicated to someone who gave me the best days of my childhood."
+image: ../../images/blog-thumbnail-default.png
 toc: false
 categories:
     - Poetry

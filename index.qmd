@@ -1,12 +1,76 @@
 ---
-title: "J.D. Cardenas Cartagena"
+title: ""
+title-block-style: none
+page-layout: full
 comments: false
 ---
 
-## Bio
-I am a doctoral student with a background in applied mathematics and mechatronics engineering. My research interests include data-driven control and machine learning algorithms for building **trustworthy artificial intelligence** agents in safety-critical mechatronics systems. 
+::: {.hero-section}
+:::: {.columns}
 
-Likewise, my motivation moves towards **innovation and co-creation** processes that involve knowledge transfer between universities and research centres with the industry and society. Outside academia, I enjoy analyzing geopolitics and finance news. I support voluntary causes related to education and science dissemination to engage young people in research.
+::: {.column style="width:30%;"}
+<div class="hero-left">
 
-## News
-* ...
+![J.D. Cardenas Cartagena](images/profile.png){.hero-img}
+
+<div class="hero-social-links">
+  <a class="hero-social-btn" href="https://github.com/dccartagena" target="_blank" rel="noopener" aria-label="GitHub">
+    <i class="bi bi-github"></i>
+  </a>
+  <a class="hero-social-btn" href="https://www.linkedin.com/in/dccartagena" target="_blank" rel="noopener" aria-label="LinkedIn">
+    <i class="bi bi-linkedin"></i>
+  </a>
+  <a class="hero-social-btn" href="https://scholar.google.com/citations?user=REPLACE_WITH_YOUR_ID" target="_blank" rel="noopener" aria-label="Google Scholar">
+    <i class="bi bi-mortarboard-fill"></i>
+  </a>
+  <a class="hero-social-btn" href="https://orcid.org/REPLACE_WITH_YOUR_ORCID" target="_blank" rel="noopener" aria-label="ORCID">
+    <i class="bi bi-person-badge-fill"></i>
+  </a>
+</div>
+
+</div>
+:::
+
+::: {.column style="width:70%; padding-left:2.5rem;"}
+
+<h1 class="hero-title">J.D. Cardenas Cartagena</h1>
+
+::: {.hero-tagline}
+Researcher & ML Engineer · Trustworthy AI for safety-critical systems
+:::
+
+::: {.hero-welcome}
+I am a researcher and engineer at the intersection of applied mathematics, control theory, and machine learning. My work focuses on designing **trustworthy AI agents** for safety-critical mechatronics systems — building techniques that are high-performing, provably safe, and interpretable.
+
+I recently joined [Youwe Concept B.V.](https://youwe.nl) in The Netherlands as a Machine Learning Engineer, and I am finalizing my Ph.D. at the University of Agder, Norway. Previously I was a Lecturer in Artificial Intelligence at the University of Groningen, where I received the **Teacher of the Year Award for AI & CCS** in 2025.
+
+Outside academia I enjoy analyzing geopolitics and finance, and I support education outreach initiatives to engage young people in science and research.
+:::
+
+## Research Interests
+
+- **Safe Reinforcement Learning** — constrained and risk-aware policy optimization
+- **Data-Driven Control** — adaptive and learning-based control for dynamical systems
+- **Gaussian Processes** — probabilistic uncertainty quantification in control systems
+- **Trustworthy AI** — interpretability, robustness, and formal verification of autonomous systems
+
+## Teaching & Mentoring
+
+At the University of Groningen I taught and co-designed undergraduate and graduate courses in Signals & Systems, Reinforcement Learning, and Machine Learning. I have mentored Bachelor's and Master's thesis students in applying rigorous AI methodologies to real-world engineering problems.
+
+Outside academia I participate in science outreach and education initiatives aimed at engaging young people in science and research — particularly through programs in Colombia such as [Clubes de Ciencia Colombia](https://clubesdeciencia.co) and [Parque Explora](https://www.parqueexplora.org).
+
+## Contact
+
+I am open to academic collaborations, speaking invitations, and research discussions. Reach out via [LinkedIn](https://www.linkedin.com/in/dccartagena) or [GitHub](https://github.com/dccartagena).
+
+:::
+
+::::
+:::
+
+---
+
+## News {#news}
+
+{{< include _news.md >}}

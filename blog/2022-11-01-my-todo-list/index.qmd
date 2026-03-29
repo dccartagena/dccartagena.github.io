@@ -1,6 +1,8 @@
 ---
 date: 2022-10-26
 title:  "My to-do list"
+description: "A running bucket list of goals — charitable, laughable, and random — with updates tracked over the years."
+image: ../../images/blog-thumbnail-default.png
 toc: false
 categories:
     - Personal Development

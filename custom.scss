@@ -1,0 +1,433 @@
+/*-- scss:defaults --*/
+
+// Primary accent — steel blue
+$primary:    #60a5fa;
+$link-color: #60a5fa;
+
+// Font families (loaded via _brand.yml / Google Fonts)
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$font-family-monospace:  "JetBrains Mono", "Fira Code", "Cascadia Code", monospace;
+
+// Typography
+$headings-font-weight: 600;
+$font-weight-bold:     700;
+$line-height-base:     1.65;
+
+// Rounding
+$btn-border-radius:  6px;
+$border-radius:      8px;
+$card-border-radius: 10px;
+
+/*-- scss:rules --*/
+
+// ── Navbar ────────────────────────────────────────────────────────────────────
+
+.navbar {
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(96, 165, 250, 0.12) !important;
+}
+
+.navbar .nav-link {
+  position: relative;
+  transition: color 0.2s ease;
+}
+
+.navbar .nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 50%;
+  right: 50%;
+  height: 2px;
+  background-color: #60a5fa;
+  transition: left 0.2s ease, right 0.2s ease;
+}
+
+.navbar .nav-link:hover::after,
+.navbar .nav-link.active::after {
+  left: 0.5rem;
+  right: 0.5rem;
+}
+
+.navbar .nav-link:hover {
+  color: #60a5fa !important;
+}
+
+.navbar-brand:hover {
+  color: #60a5fa !important;
+}
+
+// ── Headings ──────────────────────────────────────────────────────────────────
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid rgba(96, 165, 250, 0.25);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+// ── Links ─────────────────────────────────────────────────────────────────────
+
+a {
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-decoration-color: rgba(96, 165, 250, 0.5);
+}
+
+// ── Buttons ───────────────────────────────────────────────────────────────────
+
+.btn-primary {
+  background-color: #60a5fa;
+  border-color:     #60a5fa;
+  color:            #0f172a;
+  font-weight:      600;
+  letter-spacing:   0.01em;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #3b82f6;
+  border-color:     #3b82f6;
+  color:            #0f172a;
+}
+
+.btn-outline-primary {
+  border-color: #60a5fa;
+  color:        #60a5fa;
+  font-weight:  600;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus {
+  background-color: rgba(96, 165, 250, 0.12);
+  border-color:     #60a5fa;
+  color:            #60a5fa;
+}
+
+// ── Hero Section ──────────────────────────────────────────────────────────────
+
+.hero-section {
+  padding: 4rem 0 2.5rem;
+  align-items: center;
+}
+
+.hero-title {
+  font-size:      clamp(2rem, 4vw, 3rem);
+  font-weight:    700;
+  line-height:    1.15;
+  letter-spacing: -0.03em;
+  color:          #f1f5f9;
+  margin-bottom:  0.5rem;
+}
+
+.hero-tagline {
+  font-size:     1.05rem;
+  color:         #94a3b8;
+  line-height:   1.7;
+  max-width:     500px;
+  margin-bottom: 0.75rem;
+}
+
+.hero-welcome {
+  font-size:     0.975rem;
+  color:         #cbd5e1;
+  line-height:   1.8;
+  margin-top:    1rem;
+}
+
+.hero-img {
+  border-radius: 50%;
+  border:        3px solid rgba(96, 165, 250, 0.45);
+  box-shadow:    0 0 40px rgba(96, 165, 250, 0.15);
+  max-width:     220px;
+  width:         100%;
+}
+
+// ── Cards (blog listing) ──────────────────────────────────────────────────────
+
+.card {
+  border:     1px solid rgba(96, 165, 250, 0.1) !important;
+  background: rgba(255, 255, 255, 0.02) !important;
+  transition: border-color 0.25s ease, box-shadow 0.25s ease, transform 0.2s ease;
+}
+
+.card:hover {
+  border-color: rgba(96, 165, 250, 0.35) !important;
+  box-shadow:   0 6px 24px rgba(96, 165, 250, 0.08) !important;
+  transform:    translateY(-2px);
+}
+
+// ── Landing page social links ────────────────────────────────────────────────
+
+.hero-left {
+  display:        flex;
+  flex-direction: column;
+  align-items:    center;
+}
+
+.hero-social-links {
+  margin-top: 1.25rem;
+  width:      100%;
+}
+
+.hero-social-links p {
+  display:         flex;
+  flex-direction:  row;
+  flex-wrap:       nowrap;
+  justify-content: center;
+  gap:             0.4rem;
+  margin:          0;
+  padding:         0;
+}
+
+.hero-social-btn {
+  display:         inline-flex;
+  align-items:     center;
+  justify-content: center;
+  width:           2.2rem;
+  height:          2.2rem;
+  padding:         0;
+  border:          1px solid rgba(96, 165, 250, 0.35);
+  border-radius:   6px;
+  color:           #60a5fa !important;
+  font-size:       1.05rem;
+  text-decoration: none !important;
+  transition:      background-color 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.hero-social-btn:hover {
+  background-color: rgba(96, 165, 250, 0.1);
+  border-color:     #60a5fa;
+  box-shadow:       0 0 10px rgba(96, 165, 250, 0.15);
+  text-decoration:  none !important;
+}
+
+// ── Publications / Bibliography ───────────────────────────────────────────────
+
+.csl-bib-body .csl-entry {
+  margin-bottom:  1.75rem;
+  padding-bottom: 1.75rem;
+  border-bottom:  1px solid rgba(255, 255, 255, 0.06);
+  line-height:    1.65;
+}
+
+.csl-bib-body .csl-entry:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+
+// ── News section ──────────────────────────────────────────────────────────────
+
+#news ul {
+  list-style: none;
+  padding:    0;
+  margin:     0;
+}
+
+#news ul li {
+  padding:       0.65rem 0 0.65rem 1.4rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  position:      relative;
+  line-height:   1.6;
+}
+
+#news ul li::before {
+  content:  '▸';
+  color:    #60a5fa;
+  position: absolute;
+  left:     0;
+  top:      0.7rem;
+  font-size: 0.75rem;
+}
+
+#news ul li:last-child {
+  border-bottom: none;
+}
+
+// ── Footer ────────────────────────────────────────────────────────────────────
+
+.nav-footer {
+  border-top: 1px solid rgba(96, 165, 250, 0.12);
+}
+
+.nav-footer a {
+  color: #60a5fa;
+  transition: color 0.15s ease;
+}
+
+.nav-footer a:hover {
+  color: #3b82f6;
+  text-decoration: none;
+}
+
+// ── Horizontal rule ───────────────────────────────────────────────────────────
+
+hr {
+  border-color: rgba(96, 165, 250, 0.18);
+  opacity: 1;
+}
+
+// ── Inline code ───────────────────────────────────────────────────────────────
+
+code:not(pre code) {
+  color: #60a5fa;
+}
+
+// ── TOC sidebar ───────────────────────────────────────────────────────────────
+
+#TOC a {
+  color: #94a3b8;
+  transition: color 0.15s ease;
+}
+
+#TOC a:hover,
+#TOC a.active {
+  color: #60a5fa;
+}
+
+// ── Responsive hero ───────────────────────────────────────────────────────────
+
+@media (max-width: 768px) {
+  .hero-section {
+    padding: 2rem 0 1.5rem;
+  }
+
+  .hero-title {
+    font-size: 2rem;
+  }
+
+  .hero-img {
+    max-width: 160px;
+  }
+
+  // On small screens, stack columns vertically
+  .hero-section .columns {
+    flex-direction: column !important;
+  }
+
+  .hero-section .column {
+    width: 100% !important;
+    padding-left: 0 !important;
+  }
+
+  .hero-left {
+    margin-bottom: 1.5rem;
+  }
+
+  .hero-social-links p {
+    justify-content: center;
+  }
+}
+
+// ── CV Page ───────────────────────────────────────────────────────────────────
+
+.cv-entry {
+  position:      relative;
+  padding:       1rem 1.25rem 1rem 1.4rem;
+  margin-bottom: 1rem;
+  background:    rgba(255, 255, 255, 0.025);
+  border-radius: 8px;
+  border-left:   3px solid #60a5fa;
+}
+
+.cv-entry--award {
+  border-left-color: #f59e0b;
+}
+
+.cv-entry-header {
+  display:         flex;
+  justify-content: space-between;
+  align-items:     baseline;
+  flex-wrap:       wrap;
+  gap:             0.25rem 1rem;
+  margin-bottom:   0.15rem;
+}
+
+.cv-entry-title {
+  font-weight:   600;
+  font-size:     0.975rem;
+  color:         #f1f5f9;
+  margin:        0;
+}
+
+.cv-entry-date {
+  font-size:     0.78rem;
+  color:         #94a3b8;
+  white-space:   nowrap;
+  background:    rgba(96, 165, 250, 0.08);
+  border:        1px solid rgba(96, 165, 250, 0.2);
+  border-radius: 4px;
+  padding:       0.1rem 0.5rem;
+}
+
+.cv-entry--award .cv-entry-date {
+  background: rgba(245, 158, 11, 0.08);
+  border-color: rgba(245, 158, 11, 0.25);
+}
+
+.cv-entry-org {
+  font-size:     0.875rem;
+  color:         #94a3b8;
+  margin-bottom: 0.5rem;
+  font-style:    italic;
+}
+
+.cv-entry ul {
+  margin:  0.4rem 0 0;
+  padding-left: 1.1rem;
+}
+
+.cv-entry ul li {
+  font-size:     0.9rem;
+  color:         #cbd5e1;
+  line-height:   1.65;
+  margin-bottom: 0.2rem;
+}
+
+// ── CV Skills badges ──────────────────────────────────────────────────────────
+
+.cv-skill-group {
+  margin-bottom: 0.9rem;
+}
+
+.cv-skill-group-label {
+  font-size:     0.8rem;
+  font-weight:   600;
+  color:         #94a3b8;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 0.4rem;
+}
+
+.cv-badges {
+  display:   flex;
+  flex-wrap: wrap;
+  gap:       0.35rem;
+}
+
+.cv-badge {
+  display:       inline-block;
+  font-size:     0.8rem;
+  color:         #60a5fa;
+  background:    rgba(96, 165, 250, 0.08);
+  border:        1px solid rgba(96, 165, 250, 0.25);
+  border-radius: 4px;
+  padding:       0.15rem 0.55rem;
+  line-height:   1.5;
+}
+
+@media (max-width: 768px) {
+  .cv-entry-header {
+    flex-direction: column;
+    align-items:    flex-start;
+  }
+}

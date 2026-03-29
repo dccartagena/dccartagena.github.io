@@ -1,6 +1,8 @@
 ---
 date: 2020-12-29
 title:  "Coexisting With A Paperclip Maximizer"
+description: "Examining the paperclip maximizer thought experiment through the lens of modern machine learning — and why unconstrained optimization is a real concern in AI systems today."
+image: ../../images/blog-thumbnail-default.png
 toc: true
 categories:
     - AI

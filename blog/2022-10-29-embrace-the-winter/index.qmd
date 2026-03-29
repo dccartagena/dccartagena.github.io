@@ -1,6 +1,8 @@
 ---
 date: 2022-10-26
 title:  "Embrace the winter as someone from the tropics"
+description: "What it is like to experience your first real winter as someone from Medellín, Colombia — practical tips, culture shock moments, and how to actually enjoy the cold."
+image: ../../images/blog-thumbnail-default.png
 toc: true
 categories:
     - Weather

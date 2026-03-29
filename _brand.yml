@@ -1,0 +1,13 @@
+typography:
+  fonts:
+    - family: Inter
+      source: google
+    - family: JetBrains Mono
+      source: google
+  base:
+    family: Inter
+  headings:
+    family: Inter
+    weight: 600
+  monospace:
+    family: JetBrains Mono

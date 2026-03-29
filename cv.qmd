@@ -3,83 +3,316 @@ title: "CV"
 comments: false
 ---
 
-## Work experience
+## Work Experience
 
-* **Machine Learning Engineer**, *Youwe Concept B.V.*, The Netherlands, 2026 - Present
-    - ...
-* **Lecturer in Artificial Intelligence**, *University of Groningen*, The Netherlands, 2023 - 2026
-  - Teach and design undergraduate and graduate-level courses in artificial intelligence, covering topics such as Signals and Systems, Reinforcement Learning, and Machine Learning.
-  - Supervise Bachelor's and Master's thesis projects, guiding students in the application of AI principles and research methodologies.
-* **Teaching Assistant**, *Wisenet Center - University of Agder*, Norway, 2021-2022
-  - Supported the design of the Ph.D. course in Deep Reinforcement Learning.
-  - Taught lectures in advanced reinforcement learning algorithms to doctoral students.
-* **Teaching Assistant**, *Queen’s University*, Canada, 2018-2019
-  - Tutored in Linear Algebra, Statistics, and Differential Equations courses.
-* **Project Assistant**, *General Hospital of Medellin*, Colombia, 2016 - 2017
-  - Designed a MakerSpace for healthcare-related projects inside the Hospital.
-  - Developed learning activities about co-creation methodologies for healthcare professionals.
-  - Prototyped two devices related to hand-washing monitoring and sterilization process for intra-hospital use by utilizing the proposed co-creation methodology in the MakerSpace.
-  - Supervised biomedical engineering students in projects about innovation in medical devices.
-* **Student Intern**, *RWTH Aachen University*, Germany, Winter 2015
-  - Designed algorithms to compute the size of aerosol particles from laser beam intensities. 
-  - Tested a Bayesian inversion method to estimate the size of aerosol particles in a controlled environment.
+<div class="cv-entry">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Machine Learning Engineer</span>
+<span class="cv-entry-date">2026 – Present</span>
+</div>
+<div class="cv-entry-org">Youwe Concept B.V. · The Netherlands</div>
+<ul>
+<li>...</li>
+</ul>
+</div>
+
+<div class="cv-entry">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Lecturer in Artificial Intelligence</span>
+<span class="cv-entry-date">2023 – 2026</span>
+</div>
+<div class="cv-entry-org">University of Groningen · The Netherlands</div>
+<ul>
+<li>Taught and designed undergraduate and graduate-level courses in Signals &amp; Systems, Reinforcement Learning, and Machine Learning.</li>
+<li>Supervised Bachelor's and Master's thesis projects, guiding students in the application of AI principles and research methodologies.</li>
+</ul>
+</div>
+
+<div class="cv-entry">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Teaching Assistant</span>
+<span class="cv-entry-date">2021 – 2022</span>
+</div>
+<div class="cv-entry-org">Wisenet Center – University of Agder · Norway</div>
+<ul>
+<li>Supported the design of the Ph.D. course in Deep Reinforcement Learning.</li>
+<li>Taught lectures in advanced reinforcement learning algorithms to doctoral students.</li>
+</ul>
+</div>
+
+<div class="cv-entry">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Teaching Assistant</span>
+<span class="cv-entry-date">2018 – 2019</span>
+</div>
+<div class="cv-entry-org">Queen's University · Canada</div>
+<ul>
+<li>Tutored in Linear Algebra, Statistics, and Differential Equations courses.</li>
+</ul>
+</div>
+
+<div class="cv-entry">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Project Assistant</span>
+<span class="cv-entry-date">2016 – 2017</span>
+</div>
+<div class="cv-entry-org">General Hospital of Medellin · Colombia</div>
+<ul>
+<li>Designed a MakerSpace for healthcare-related projects inside the Hospital.</li>
+<li>Developed learning activities about co-creation methodologies for healthcare professionals.</li>
+<li>Prototyped two devices related to hand-washing monitoring and sterilization using the proposed co-creation methodology.</li>
+<li>Supervised biomedical engineering students in projects about innovation in medical devices.</li>
+</ul>
+</div>
+
+<div class="cv-entry">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Student Intern</span>
+<span class="cv-entry-date">Winter 2015</span>
+</div>
+<div class="cv-entry-org">RWTH Aachen University · Germany</div>
+<ul>
+<li>Designed algorithms to compute the size of aerosol particles from laser beam intensities.</li>
+<li>Tested a Bayesian inversion method to estimate aerosol particle size in a controlled environment.</li>
+</ul>
+</div>
 
 ## Education
 
-* **Ph.D in Engineering and Science**, *University of Agder*, Norway, 2026 (expected)
-  - *Project:* Safe Deep Reinforcement Learning Techniques for Data-Driven Adaptive Control
-  - *Selected courses:* Convex and Non-convex Optimization, Deep Learning, Statistical Signal Processing.
-* **M.Sc. in Mathematics and Statistics**, *Queen's University*, Canada, 2019
-  - *Project:* On the Kalman filter with intermittent observations
-  - *Selected courses:* Stochastic Control, Modern Control Theory, Data Compression And Source Coding.
-* **B.S. in Mechatronics Engineering**, *EIA University*, Colombia, 2016
-  * *Project:* Autonomous mobile robot navigation using particle filtering in the localization stage.
-  - *Selected courses:* Robotics, Artificial Intelligence, Continuous And Discrete Control, Mechatronics Design
-  
+<div class="cv-entry">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Ph.D. in Engineering and Science</span>
+<span class="cv-entry-date">2026 (expected)</span>
+</div>
+<div class="cv-entry-org">University of Agder · Norway</div>
+<ul>
+<li><em>Project:</em> Safe Deep Reinforcement Learning Techniques for Data-Driven Adaptive Control</li>
+<li><em>Selected courses:</em> Convex and Non-convex Optimization, Deep Learning, Statistical Signal Processing</li>
+</ul>
+</div>
+
+<div class="cv-entry">
+<div class="cv-entry-header">
+<span class="cv-entry-title">M.Sc. in Mathematics and Statistics</span>
+<span class="cv-entry-date">2019</span>
+</div>
+<div class="cv-entry-org">Queen's University · Canada</div>
+<ul>
+<li><em>Project:</em> On the Kalman filter with intermittent observations</li>
+<li><em>Selected courses:</em> Stochastic Control, Modern Control Theory, Data Compression and Source Coding</li>
+</ul>
+</div>
+
+<div class="cv-entry">
+<div class="cv-entry-header">
+<span class="cv-entry-title">B.S. in Mechatronics Engineering</span>
+<span class="cv-entry-date">2016</span>
+</div>
+<div class="cv-entry-org">EIA University · Colombia</div>
+<ul>
+<li><em>Project:</em> Autonomous mobile robot navigation using particle filtering in the localization stage</li>
+<li><em>Selected courses:</em> Robotics, Artificial Intelligence, Continuous and Discrete Control, Mechatronics Design</li>
+</ul>
+</div>
+
 ## Skills
 
-* **Industry Knowledge:** Research, Engineering Design, Agile methodologies, Design Thinking, Co-Creation
-* **Programming Languages:** Python, Matlab, SQL
-* **Relevant libraries:** Pytorch, TensorFlow, Keras, Horovod, Pandas, Numpy, Matplotlib
-* **Coding tools:** Version control (GIT/GitHub), Docker, LaTeX, Web design
-* **Prototyping tools:** 3D printing, Inventor Fusion, Siemens Solid Edge, Altium, Arduino, PIC Microcontroller
+<div class="cv-skill-group">
+<div class="cv-skill-group-label">Industry Knowledge</div>
+<div class="cv-badges">
+<span class="cv-badge">Research</span>
+<span class="cv-badge">Engineering Design</span>
+<span class="cv-badge">Agile</span>
+<span class="cv-badge">Design Thinking</span>
+<span class="cv-badge">Co-Creation</span>
+</div>
+</div>
+
+<div class="cv-skill-group">
+<div class="cv-skill-group-label">Programming Languages</div>
+<div class="cv-badges">
+<span class="cv-badge">Python</span>
+<span class="cv-badge">Matlab</span>
+<span class="cv-badge">SQL</span>
+</div>
+</div>
+
+<div class="cv-skill-group">
+<div class="cv-skill-group-label">Libraries &amp; Frameworks</div>
+<div class="cv-badges">
+<span class="cv-badge">PyTorch</span>
+<span class="cv-badge">TensorFlow</span>
+<span class="cv-badge">Keras</span>
+<span class="cv-badge">Horovod</span>
+<span class="cv-badge">Pandas</span>
+<span class="cv-badge">NumPy</span>
+<span class="cv-badge">Matplotlib</span>
+</div>
+</div>
+
+<div class="cv-skill-group">
+<div class="cv-skill-group-label">Tools</div>
+<div class="cv-badges">
+<span class="cv-badge">Git / GitHub</span>
+<span class="cv-badge">Docker</span>
+<span class="cv-badge">LaTeX</span>
+<span class="cv-badge">Web Design</span>
+</div>
+</div>
+
+<div class="cv-skill-group">
+<div class="cv-skill-group-label">Prototyping</div>
+<div class="cv-badges">
+<span class="cv-badge">3D Printing</span>
+<span class="cv-badge">Inventor Fusion</span>
+<span class="cv-badge">Siemens Solid Edge</span>
+<span class="cv-badge">Altium</span>
+<span class="cv-badge">Arduino</span>
+<span class="cv-badge">PIC Microcontroller</span>
+</div>
+</div>
 
 ## Grants
 
-* **Colfuturo scholarship-loan**, *Colfuturo*, Colombia, 2017
-  - Grant issued by the Foundation for the Future of Colombia (Colfuturo) and the Colombian ministry of science, technology, and innovation. I used the grant in my graduate studies at Queen’s University.
-* **Fondo Sapiencia - EPM**, *Sapiencia Medellin*, Colombia, 2011
-  - Grant issued by the higher education agency of the Medellin Mayor’s office (Sapiencia). I used the grant in my bachelor studies at EIA University.
+<div class="cv-entry">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Colfuturo Scholarship-Loan</span>
+<span class="cv-entry-date">2017</span>
+</div>
+<div class="cv-entry-org">Colfuturo · Colombia</div>
+<ul>
+<li>Grant issued by the Foundation for the Future of Colombia and the Colombian Ministry of Science, Technology, and Innovation. Used for graduate studies at Queen's University.</li>
+</ul>
+</div>
+
+<div class="cv-entry">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Fondo Sapiencia – EPM</span>
+<span class="cv-entry-date">2011</span>
+</div>
+<div class="cv-entry-org">Sapiencia – Medellin Mayor's Office · Colombia</div>
+<ul>
+<li>Grant issued by the higher education agency of the Medellin Mayor's office. Used for bachelor studies at EIA University.</li>
+</ul>
+</div>
 
 ## Awards
-* **Teacher of The Year Award for AI & CCS**, *Programme Committee AI & CCS - University of Groningen*, The Netherlands, 2025
-    - ...
-* **Finalist at the Forsker Grand Prix**, *University of Agder*, Norway, 2020
-  - Finalist in the science popularisation contest Forsker Grand Prix with my talk "Helping machines to make safe actions."
-* **Orchid gold award**, *Medellin Council*, Colombia, 2014
-  - The Medellin Council awarded my robotics team with the Orchid gold award for our developments in mobile robots for international competitions between universities.
-* **Champion at RoboRave International**, *RoboRave*, USA, 2014
-  - Our team participated in the RoboRave International 2014 and won first place in the Fire Fighting challenge with an own made autonomous mobile robot based on an Arduino platform and PIC microcontroller.
-* **Champion at RoboRave Colombia**, *RoboRave*, Colombia, 2013
-  - My team participated in the RoboRave Colombia 2013 and won first place in the Fire Fighting challenge with an own made autonomous mobile robot based on an Arduino platform.
-  
-## Service and leadership
 
-* **Reviewer**, 2022-Present
-  - Review scientific papers for multiple conferences and journals in the field of artificial intelligence and control.
-* **Academic and skills development coordinator**, UiAdoc, Norway, 2021-2022
-  - Organized events to support the professional development of doctoral researchers in Agder.
-* **Event organizer**, ACI Medellin, Colombia, 2021-2021
-  - Organized virtual conferences in science popularization and cultural exchange for small businesses in the city.
-* **Community manager**, *IEEE Colombia*, Colombia, 2019
-  - Community manager in charge of the social media accounts to promote the 4th IEEE Colombian Conference on Automatic Control.
-* **Student mentor**, *Clubes de Ciencia Colombia*, Colombia, 2017
-  - Develop a workshop related to 3D printing technology and CAD modelling to prototype medical devices, with a target audience of young people between 13 and 18 years old.
-* **Student mentor**, *Parque Explora*, Colombia, 2016
-  - Support a school research project for a local academic event, whose objective was the development of a robotic manipulator prototype for use in chemical laboratories.
+<div class="cv-entry cv-entry--award">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Teacher of The Year Award for AI &amp; CCS</span>
+<span class="cv-entry-date">2025</span>
+</div>
+<div class="cv-entry-org">Programme Committee AI &amp; CCS – University of Groningen · The Netherlands</div>
+</div>
 
-## Language
+<div class="cv-entry cv-entry--award">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Finalist at the Forsker Grand Prix</span>
+<span class="cv-entry-date">2020</span>
+</div>
+<div class="cv-entry-org">University of Agder · Norway</div>
+<ul>
+<li>Finalist in the science popularisation contest Forsker Grand Prix with the talk "Helping machines to make safe actions."</li>
+</ul>
+</div>
 
-* **Spanish:** Native proficiency
-* **English:** Professional working proficiency
-* **Norwegian:** Limited working proficiency
+<div class="cv-entry cv-entry--award">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Orchid Gold Award</span>
+<span class="cv-entry-date">2014</span>
+</div>
+<div class="cv-entry-org">Medellin Council · Colombia</div>
+<ul>
+<li>Awarded to my robotics team for developments in mobile robots for international university competitions.</li>
+</ul>
+</div>
+
+<div class="cv-entry cv-entry--award">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Champion at RoboRave International</span>
+<span class="cv-entry-date">2014</span>
+</div>
+<div class="cv-entry-org">RoboRave · USA</div>
+<ul>
+<li>Won first place in the Fire Fighting challenge with an autonomous mobile robot (Arduino + PIC Microcontroller).</li>
+</ul>
+</div>
+
+<div class="cv-entry cv-entry--award">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Champion at RoboRave Colombia</span>
+<span class="cv-entry-date">2013</span>
+</div>
+<div class="cv-entry-org">RoboRave · Colombia</div>
+<ul>
+<li>Won first place in the Fire Fighting challenge with an autonomous mobile robot (Arduino + PIC).</li>
+</ul>
+</div>
+
+## Service and Leadership
+
+<div class="cv-entry">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Reviewer</span>
+<span class="cv-entry-date">2022 – Present</span>
+</div>
+<ul>
+<li>Review scientific papers for multiple conferences and journals in AI and control.</li>
+</ul>
+</div>
+
+<div class="cv-entry">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Academic and Skills Development Coordinator</span>
+<span class="cv-entry-date">2021 – 2022</span>
+</div>
+<div class="cv-entry-org">UiAdoc · Norway</div>
+<ul>
+<li>Organized events to support professional development of doctoral researchers in Agder.</li>
+</ul>
+</div>
+
+<div class="cv-entry">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Event Organizer</span>
+<span class="cv-entry-date">2021</span>
+</div>
+<div class="cv-entry-org">ACI Medellin · Colombia</div>
+<ul>
+<li>Organized virtual conferences in science popularization and cultural exchange for small businesses.</li>
+</ul>
+</div>
+
+<div class="cv-entry">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Community Manager</span>
+<span class="cv-entry-date">2019</span>
+</div>
+<div class="cv-entry-org">IEEE Colombia · Colombia</div>
+<ul>
+<li>Managed social media accounts to promote the 4th IEEE Colombian Conference on Automatic Control.</li>
+</ul>
+</div>
+
+<div class="cv-entry">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Student Mentor</span>
+<span class="cv-entry-date">2017</span>
+</div>
+<div class="cv-entry-org">Clubes de Ciencia Colombia · Colombia</div>
+<ul>
+<li>Developed a workshop on 3D printing and CAD modelling to prototype medical devices, targeting young people aged 13–18.</li>
+</ul>
+</div>
+
+<div class="cv-entry">
+<div class="cv-entry-header">
+<span class="cv-entry-title">Student Mentor</span>
+<span class="cv-entry-date">2016</span>
+</div>
+<div class="cv-entry-org">Parque Explora · Colombia</div>
+<ul>
+<li>Supported a school research project developing a robotic manipulator prototype for use in chemical laboratories.</li>
+</ul>
+</div>

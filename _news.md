@@ -1,0 +1,2 @@
+* **[Mar 2026]** Started as Machine Learning Engineer at [Youwe Concept B.V.](https://youwe.nl), The Netherlands.
+* **[Jun 2025]** Received the **Teacher of the Year Award for AI & CCS** from the Programme Committee AI & CCS, University of Groningen.
