@@ -13,8 +13,8 @@ comments: false
 
 ![](images/profile.png){.hero-img}
 
-<p class="hero-left-name">J.D. Cardenas Cartagena</p>
-<p class="hero-left-tagline">Researcher & ML Engineer · Trustworthy AI for safety-critical systems</p>
+<p class="hero-left-name">Juan Diego Cardenas Cartagena</p>
+<p class="hero-left-tagline">Researcher & ML Engineer<br>Trustworthy AI for safety-critical systems</p>
 
 <div class="hero-social-links">
   <a class="hero-social-btn" href="https://github.com/dccartagena" target="_blank" rel="noopener" aria-label="GitHub">

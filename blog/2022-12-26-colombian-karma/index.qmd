@@ -2,7 +2,7 @@
 date: 2022-12-26
 title:  "Do you sell coooooooo...ffee: The Colombian karma"
 description: "Demystifying Colombian identity from the perspective of a researcher living abroad — navigating stereotypes, cultural pride, and the gap between perception and reality."
-image: ../../images/blog-thumbnail-default.png
+image: ./images//medellin-noche.jpg
 toc: true
 categories:
     - Colombia
