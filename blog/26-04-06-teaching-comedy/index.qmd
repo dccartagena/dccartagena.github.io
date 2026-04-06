@@ -1,0 +1,33 @@
+---
+date: 2026-04-06
+title:  "A Reflection on Teaching and Comedy"
+description: "..."
+image: ../../images/blog-thumbnail-default.png
+draft: true
+toc: true
+categories:
+    - Teaching
+    - Self-reflection
+---
+
+A few days ago, I had my last lecture in the most ambitious and challenging course I have designed and taught: AI Engineering. Although I now want to work as an engineer and researcher to tackle industry problems, I am writing this post to find closure for one of the most interesting jobs I have held: university teacher.
+
+***Keywords*** --- personal finance, budget, expenses.
+
+## Winter of 2022
+Everyone who knows me has been concern on the status of my Ph.D., from my supervisor to my mother, there is always that question of when I am supposed to submit the thesis and become a doctor. Corona-times hit hard my project due to two things: 1) I had to change projects from applied RL to something more theoretical as the experimentation plants were not reachable during a considerable amount of time for obvious reasons, corona. 2) My contract at the university ran out of funds and time, so I had to become self-funded, or in other words, find a job. 
+
+My attempts for landinging a job in Norway were considerably tricky as the job-market is not amicable to english-speaking workers (makes sense) and my currently-working-on-the-thesis positon was not well recieved during the interviews. I landed some interviews here and there; and I even got some interesting opportunities in the table. Nevertheless, I was not comfortable with them; for example, one of the options was about seting up the Data & AI deparment of some company on a part-time with a borderline minimum wage. Long-story-short, finding a job in Norway was not an easy task for a non-european guy who was finishing his doctoral project. Hence, I did the most rational decision at the moment: Find a job elsewhere in Europe, with a focus on Northern-Europe. 
+
+During that job search, I found the teaching position in Groningen. Although I knew the city of Groningen from its football club, 
+
+## Fear and Insecurities
+
+## Improv Comedy and Finding My Teaching Ethos
+
+## The Last Lectture and New Challenges
+
+## Some final thoughts
+...
+
+<sub>*Disclaimer: This post represents my personal opinion. I am not responsible for any content on external sites. And this is not financial advice.</sub>
