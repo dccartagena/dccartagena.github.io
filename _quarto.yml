@@ -1,9 +1,11 @@
 project:
   type: website
   output-dir: _site
-  preview: 
+  preview:
     browser: true
     port: 4200
+  resources:
+    - images/profile.webp
 
 website:
   title: "J.D. Cardenas Cartagena"

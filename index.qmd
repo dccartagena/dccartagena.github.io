@@ -11,10 +11,12 @@ comments: false
 ::: {.column style="width:30%;"}
 <div class="hero-left">
 
+```{=html}
 <picture>
   <source srcset="images/profile.webp" type="image/webp">
   <img src="images/profile.png" class="hero-img" alt="Profile photo" width="220" height="220" fetchpriority="high">
 </picture>
+```
 
 <p class="hero-left-name">Juan Diego Cardenas Cartagena</p>
 <p class="hero-left-tagline">Researcher & ML Engineer<br>Trustworthy AI for safety-critical systems</p>
