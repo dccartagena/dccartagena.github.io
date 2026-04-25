@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dccartagena.github.io/about.html</loc>
-    <lastmod>2026-03-29T22:15:28.132Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dccartagena.github.io/cv.html</loc>
-    <lastmod>2026-03-29T21:08:38.597Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dccartagena.github.io/index.html</loc>
-    <lastmod>2026-03-29T22:16:31.145Z</lastmod>
+    <loc>https://dccartagena.github.io/publications.html</loc>
+    <lastmod>2026-03-29T22:06:31.501Z</lastmod>
   </url>
   <url>
     <loc>https://dccartagena.github.io/blog/2023-05-27-para-papito/index.html</loc>
@@ -18,15 +10,15 @@
   </url>
   <url>
     <loc>https://dccartagena.github.io/blog/2022-10-29-embrace-the-winter/index.html</loc>
-    <lastmod>2026-03-29T20:36:40.451Z</lastmod>
+    <lastmod>2026-03-29T22:39:10.947Z</lastmod>
   </url>
   <url>
     <loc>https://dccartagena.github.io/blog/2022-10-22-personal-finances/index.html</loc>
-    <lastmod>2026-03-29T20:36:40.451Z</lastmod>
+    <lastmod>2026-03-29T22:38:57.140Z</lastmod>
   </url>
   <url>
     <loc>https://dccartagena.github.io/blog/2022-12-26-colombian-karma/index.html</loc>
-    <lastmod>2026-03-29T20:36:40.451Z</lastmod>
+    <lastmod>2026-03-29T22:39:35.290Z</lastmod>
   </url>
   <url>
     <loc>https://dccartagena.github.io/blog/2022-10-22-aplicar-a-grad-school/index.html</loc>
@@ -34,11 +26,11 @@
   </url>
   <url>
     <loc>https://dccartagena.github.io/blog/index.html</loc>
-    <lastmod>2026-03-29T19:45:12.560Z</lastmod>
+    <lastmod>2026-04-25T13:35:44.574Z</lastmod>
   </url>
   <url>
     <loc>https://dccartagena.github.io/blog/2023-01-12-starting-again/index.html</loc>
-    <lastmod>2026-03-29T20:36:40.451Z</lastmod>
+    <lastmod>2026-03-29T22:39:46.203Z</lastmod>
   </url>
   <url>
     <loc>https://dccartagena.github.io/blog/2022-11-01-my-todo-list/index.html</loc>
@@ -46,14 +38,18 @@
   </url>
   <url>
     <loc>https://dccartagena.github.io/blog/2023-08-16-writing-and-presenting/index.html</loc>
-    <lastmod>2026-03-29T20:36:40.451Z</lastmod>
+    <lastmod>2026-03-29T22:40:02.648Z</lastmod>
   </url>
   <url>
     <loc>https://dccartagena.github.io/blog/2020-12-29-Coexisting-With-A-Paperclip/index.html</loc>
     <lastmod>2026-03-29T20:36:40.451Z</lastmod>
   </url>
   <url>
-    <loc>https://dccartagena.github.io/publications.html</loc>
-    <lastmod>2026-03-29T22:06:31.501Z</lastmod>
+    <loc>https://dccartagena.github.io/index.html</loc>
+    <lastmod>2026-04-25T13:54:01.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dccartagena.github.io/cv.html</loc>
+    <lastmod>2026-03-29T22:30:37.064Z</lastmod>
   </url>
 </urlset>

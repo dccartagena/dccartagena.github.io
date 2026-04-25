@@ -41,7 +41,7 @@ comments: false
 
 ::: {.column style="width:70%; padding-left:2.5rem;"}
 
-<h1 class="hero-title">J.D. Cardenas Cartagena</h1>
+<h1 class="hero-title">Juan Diego Cardenas Cartagena</h1>
 
 ::: {.hero-welcome}
 I am a researcher and engineer at the intersection of applied mathematics, control theory, and machine learning. My work focuses on designing **trustworthy AI agents** for safety-critical mechatronics systems — building techniques that are high-performing, provably safe, and interpretable.
@@ -58,48 +58,9 @@ Outside academia I enjoy analyzing geopolitics and finance, and I support educat
   <span class="research-tag">Safe Reinforcement Learning</span>
   <span class="research-tag">Data-Driven Control</span>
   <span class="research-tag">Trustworthy AI</span>
-  <span class="research-tag">Formal Verification</span>
   <span class="research-tag">Autonomous Systems</span>
 </div>
 ```
-
-Constrained and risk-aware policy optimization · adaptive learning-based control for dynamical systems · interpretability, robustness, and formal verification of autonomous systems.
-
-## Selected Publications
-
-```{=html}
-<div class="pub-cards">
-  <div class="pub-card">
-    <div class="pub-card-year">2025</div>
-    <div class="pub-card-venue">TMLR</div>
-    <div class="pub-card-title">Safe Reinforcement Learning with Chance-Constrained Model Predictive Control</div>
-    <div class="pub-card-authors">J.D. Cardenas-Cartagena et al.</div>
-    <a class="pub-card-link" href="publications.html">View →</a>
-  </div>
-  <div class="pub-card">
-    <div class="pub-card-year">2025</div>
-    <div class="pub-card-venue">NLDL</div>
-    <div class="pub-card-title">Interpretable Neural Lyapunov Functions for Safety-Critical Control</div>
-    <div class="pub-card-authors">J.D. Cardenas-Cartagena et al.</div>
-    <a class="pub-card-link" href="publications.html">View →</a>
-  </div>
-  <div class="pub-card">
-    <div class="pub-card-year">2024</div>
-    <div class="pub-card-venue">ICAART</div>
-    <div class="pub-card-title">Risk-Aware Adaptive Control for Uncertain Dynamical Systems</div>
-    <div class="pub-card-authors">J.D. Cardenas-Cartagena et al.</div>
-    <a class="pub-card-link" href="publications.html">View →</a>
-  </div>
-</div>
-```
-
-[View all publications]{.btn .btn-outline-primary .btn-sm href="publications.html"}
-
-## Teaching & Mentoring
-
-At the University of Groningen I taught and co-designed undergraduate and graduate courses in Signals & Systems, Reinforcement Learning, and Machine Learning. I have mentored Bachelor's and Master's thesis students in applying rigorous AI methodologies to real-world engineering problems.
-
-Outside academia I participate in science outreach and education initiatives aimed at engaging young people in science and research — particularly through programs in Colombia such as [Clubes de Ciencia Colombia](https://clubesdeciencia.co) and [Parque Explora](https://www.parqueexplora.org).
 
 :::
 ::::
