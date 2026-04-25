@@ -4,11 +4,13 @@ author: ""
 listing:
   contents: "index.qmd"
   categories: true
-  type: default
+  type: grid
+  grid-columns: 3
+  image-height: "180px"
   date-format: "iso"
-  fields: [image, date, title, subtitle, author, summary, description, extsite, repo]
+  fields: [image, date, title, description]
   filter-ui: [title, date]
-  page-size: 8
+  page-size: 9
   sort: "date desc"
 page-layout: full
 ---

@@ -11,7 +11,12 @@ comments: false
 ::: {.column style="width:30%;"}
 <div class="hero-left">
 
-![](images/profile.png){.hero-img}
+```{=html}
+<picture>
+  <source srcset="images/profile.webp" type="image/webp">
+  <img src="images/profile.png" class="hero-img" alt="Profile photo" width="220" height="220" fetchpriority="high">
+</picture>
+```
 
 <p class="hero-left-name">Juan Diego Cardenas Cartagena</p>
 <p class="hero-left-tagline">Researcher & ML Engineer<br>Trustworthy AI for safety-critical systems</p>
@@ -36,7 +41,7 @@ comments: false
 
 ::: {.column style="width:70%; padding-left:2.5rem;"}
 
-<h1 class="hero-title">J.D. Cardenas Cartagena</h1>
+<h1 class="hero-title">Juan Diego Cardenas Cartagena</h1>
 
 ::: {.hero-welcome}
 I am a researcher and engineer at the intersection of applied mathematics, control theory, and machine learning. My work focuses on designing **trustworthy AI agents** for safety-critical mechatronics systems — building techniques that are high-performing, provably safe, and interpretable.
@@ -48,15 +53,14 @@ Outside academia I enjoy analyzing geopolitics and finance, and I support educat
 
 ## Research Interests
 
-- **Safe Reinforcement Learning** — constrained and risk-aware policy optimization
-- **Data-Driven Control** — adaptive and learning-based control for dynamical systems
-- **Trustworthy AI** — interpretability, robustness, and formal verification of autonomous systems
-
-## Teaching & Mentoring
-
-At the University of Groningen I taught and co-designed undergraduate and graduate courses in Signals & Systems, Reinforcement Learning, and Machine Learning. I have mentored Bachelor's and Master's thesis students in applying rigorous AI methodologies to real-world engineering problems.
-
-Outside academia I participate in science outreach and education initiatives aimed at engaging young people in science and research — particularly through programs in Colombia such as [Clubes de Ciencia Colombia](https://clubesdeciencia.co) and [Parque Explora](https://www.parqueexplora.org).
+```{=html}
+<div class="research-tags">
+  <span class="research-tag">Safe Reinforcement Learning</span>
+  <span class="research-tag">Data-Driven Control</span>
+  <span class="research-tag">Trustworthy AI</span>
+  <span class="research-tag">Autonomous Systems</span>
+</div>
+```
 
 :::
 ::::
