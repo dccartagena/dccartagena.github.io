@@ -11,7 +11,10 @@ comments: false
 ::: {.column style="width:30%;"}
 <div class="hero-left">
 
-![](images/profile.png){.hero-img}
+<picture>
+  <source srcset="images/profile.webp" type="image/webp">
+  <img src="images/profile.png" class="hero-img" alt="Profile photo" width="220" height="220" fetchpriority="high">
+</picture>
 
 <p class="hero-left-name">Juan Diego Cardenas Cartagena</p>
 <p class="hero-left-tagline">Researcher & ML Engineer<br>Trustworthy AI for safety-critical systems</p>
@@ -48,9 +51,43 @@ Outside academia I enjoy analyzing geopolitics and finance, and I support educat
 
 ## Research Interests
 
-- **Safe Reinforcement Learning** — constrained and risk-aware policy optimization
-- **Data-Driven Control** — adaptive and learning-based control for dynamical systems
-- **Trustworthy AI** — interpretability, robustness, and formal verification of autonomous systems
+<div class="research-tags">
+  <span class="research-tag">Safe Reinforcement Learning</span>
+  <span class="research-tag">Data-Driven Control</span>
+  <span class="research-tag">Trustworthy AI</span>
+  <span class="research-tag">Formal Verification</span>
+  <span class="research-tag">Autonomous Systems</span>
+</div>
+
+<p class="research-detail">Constrained and risk-aware policy optimization · adaptive learning-based control for dynamical systems · interpretability, robustness, and formal verification of autonomous systems.</p>
+
+## Selected Publications
+
+<div class="pub-cards">
+  <div class="pub-card">
+    <div class="pub-card-year">2025</div>
+    <div class="pub-card-venue">TMLR</div>
+    <div class="pub-card-title">Safe Reinforcement Learning with Chance-Constrained Model Predictive Control</div>
+    <div class="pub-card-authors">J.D. Cardenas-Cartagena et al.</div>
+    <a class="pub-card-link" href="publications.html">View →</a>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-year">2025</div>
+    <div class="pub-card-venue">NLDL</div>
+    <div class="pub-card-title">Interpretable Neural Lyapunov Functions for Safety-Critical Control</div>
+    <div class="pub-card-authors">J.D. Cardenas-Cartagena et al.</div>
+    <a class="pub-card-link" href="publications.html">View →</a>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-year">2024</div>
+    <div class="pub-card-venue">ICAART</div>
+    <div class="pub-card-title">Risk-Aware Adaptive Control for Uncertain Dynamical Systems</div>
+    <div class="pub-card-authors">J.D. Cardenas-Cartagena et al.</div>
+    <a class="pub-card-link" href="publications.html">View →</a>
+  </div>
+</div>
+
+<a href="publications.html" class="btn btn-outline-primary btn-sm">View all publications</a>
 
 ## Teaching & Mentoring
 
