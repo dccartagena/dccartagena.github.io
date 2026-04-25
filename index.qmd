@@ -51,6 +51,7 @@ Outside academia I enjoy analyzing geopolitics and finance, and I support educat
 
 ## Research Interests
 
+```{=html}
 <div class="research-tags">
   <span class="research-tag">Safe Reinforcement Learning</span>
   <span class="research-tag">Data-Driven Control</span>
@@ -58,11 +59,13 @@ Outside academia I enjoy analyzing geopolitics and finance, and I support educat
   <span class="research-tag">Formal Verification</span>
   <span class="research-tag">Autonomous Systems</span>
 </div>
+```
 
-<p class="research-detail">Constrained and risk-aware policy optimization · adaptive learning-based control for dynamical systems · interpretability, robustness, and formal verification of autonomous systems.</p>
+Constrained and risk-aware policy optimization · adaptive learning-based control for dynamical systems · interpretability, robustness, and formal verification of autonomous systems.
 
 ## Selected Publications
 
+```{=html}
 <div class="pub-cards">
   <div class="pub-card">
     <div class="pub-card-year">2025</div>
@@ -86,8 +89,9 @@ Outside academia I enjoy analyzing geopolitics and finance, and I support educat
     <a class="pub-card-link" href="publications.html">View →</a>
   </div>
 </div>
+```
 
-<a href="publications.html" class="btn btn-outline-primary btn-sm">View all publications</a>
+[View all publications]{.btn .btn-outline-primary .btn-sm href="publications.html"}
 
 ## Teaching & Mentoring
 
