@@ -20,6 +20,12 @@ $card-border-radius: 10px;
 
 /*-- scss:rules --*/
 
+// ── Figures ───────────────────────────────────────────────────────────────────
+
+figure figcaption {
+  text-align: center;
+}
+
 // ── Navbar ────────────────────────────────────────────────────────────────────
 
 .navbar {
@@ -406,18 +412,164 @@ body {
   max-width:   760px;
 }
 
+// ── Inner page headers (CV, Publications, Blog) ───────────────────────────────
+
+.page-hero {
+  padding: 2.5rem 0 0;
+  margin-bottom: 2rem;
+}
+
+.page-hero-eyebrow {
+  font-family:    "JetBrains Mono", monospace;
+  font-size:      0.78rem;
+  font-weight:    500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color:          #60a5fa;
+  margin-bottom:  0.75rem;
+}
+
+.page-hero-title {
+  font-size:      clamp(2.1rem, 4.5vw, 3rem);
+  font-weight:    700;
+  line-height:    1.1;
+  letter-spacing: -0.03em;
+  color:          #f1f5f9;
+  margin:         0 0 0.85rem;
+}
+
+.page-hero-lede {
+  font-size:   1rem;
+  color:       #94a3b8;
+  line-height: 1.75;
+  max-width:   640px;
+  margin:      0;
+}
+
+.page-hero-actions {
+  display:    flex;
+  flex-wrap:  wrap;
+  gap:        0.75rem;
+  margin-top: 1.4rem;
+}
+
+// Gradient rule closing the header
+.page-hero::after {
+  content:    '';
+  display:    block;
+  height:     1px;
+  margin-top: 1.9rem;
+  background: linear-gradient(90deg, rgba(96, 165, 250, 0.5) 0%,
+                              rgba(167, 139, 250, 0.25) 45%, transparent 90%);
+}
+
 // ── Cards (blog listing) ──────────────────────────────────────────────────────
 
 .card {
-  border:     1px solid rgba(96, 165, 250, 0.1) !important;
-  background: rgba(255, 255, 255, 0.02) !important;
-  transition: border-color 0.25s ease, box-shadow 0.25s ease, transform 0.2s ease;
+  border:        1px solid rgba(96, 165, 250, 0.1) !important;
+  background:    rgba(255, 255, 255, 0.02) !important;
+  border-radius: 12px !important;
+  overflow:      hidden;
+  transition:    border-color 0.25s ease, box-shadow 0.25s ease, transform 0.2s ease;
 }
 
 .card:hover {
   border-color: rgba(96, 165, 250, 0.35) !important;
   box-shadow:   0 6px 24px rgba(96, 165, 250, 0.08) !important;
   transform:    translateY(-2px);
+}
+
+// Thumbnail zoom on hover
+.quarto-grid-item .card-img-top {
+  overflow: hidden;
+  margin:   0;
+}
+
+.quarto-grid-item img.thumbnail-image {
+  transition: transform 0.35s ease;
+}
+
+.quarto-grid-item:hover img.thumbnail-image {
+  transform: scale(1.05);
+}
+
+.quarto-grid-item .listing-title {
+  font-size:   1rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color:       #f1f5f9;
+  transition:  color 0.2s ease;
+}
+
+.quarto-grid-item:hover .listing-title {
+  color: #60a5fa;
+}
+
+.quarto-grid-item .listing-description {
+  font-size:   0.85rem;
+  color:       #94a3b8;
+  line-height: 1.6;
+}
+
+.quarto-grid-item .listing-date {
+  font-family:    "JetBrains Mono", monospace;
+  font-size:      0.72rem;
+  letter-spacing: 0.05em;
+  color:          #60a5fa;
+}
+
+// ── Blog listing: category sidebar & filter controls ──────────────────────────
+
+.quarto-listing-category-title {
+  font-family:    "JetBrains Mono", monospace;
+  font-size:      0.72rem;
+  font-weight:    600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color:          #60a5fa;
+  margin-bottom:  0.6rem;
+}
+
+.quarto-listing-category .category {
+  display:       block;
+  width:         fit-content;
+  padding:       0.18rem 0.65rem;
+  margin-bottom: 0.35rem;
+  border:        1px solid rgba(96, 165, 250, 0.18);
+  border-radius: 100px;
+  font-size:     0.8rem;
+  color:         #94a3b8;
+  cursor:        pointer;
+  transition:    color 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
+}
+
+.quarto-listing-category .category:hover {
+  color:        #60a5fa;
+  border-color: rgba(96, 165, 250, 0.45);
+}
+
+.quarto-listing-category .category.active {
+  color:        #0b1220;
+  background:   #60a5fa;
+  border-color: #60a5fa;
+  font-weight:  600;
+}
+
+.quarto-listing .form-control,
+.quarto-listing .form-select {
+  background:    rgba(255, 255, 255, 0.03);
+  border:        1px solid rgba(96, 165, 250, 0.2);
+  border-radius: 8px;
+  color:         #cbd5e1;
+  font-size:     0.875rem;
+}
+
+.quarto-listing .form-control:focus,
+.quarto-listing .form-select:focus {
+  background:   rgba(255, 255, 255, 0.04);
+  border-color: #60a5fa;
+  box-shadow:   0 0 0 3px rgba(96, 165, 250, 0.15);
+  color:        #e2e8f0;
 }
 
 // ── Landing page social links ────────────────────────────────────────────────
@@ -452,15 +604,19 @@ body {
 // ── Publications / Bibliography ───────────────────────────────────────────────
 
 .csl-bib-body .csl-entry {
-  margin-bottom:  1.75rem;
-  padding-bottom: 1.75rem;
-  border-bottom:  1px solid rgba(255, 255, 255, 0.06);
-  line-height:    1.65;
+  margin-bottom: 1.1rem;
+  padding:       1.25rem 1.5rem;
+  background:    rgba(255, 255, 255, 0.025);
+  border:        1px solid rgba(96, 165, 250, 0.12);
+  border-radius: 10px;
+  line-height:   1.65;
+  transition:    border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
 }
 
-.csl-bib-body .csl-entry:last-child {
-  border-bottom: none;
-  margin-bottom: 0;
+.csl-bib-body .csl-entry:hover {
+  border-color: rgba(96, 165, 250, 0.35);
+  box-shadow:   0 4px 18px rgba(96, 165, 250, 0.07);
+  transform:    translateY(-2px);
 }
 
 // Summary (annote) block — clearly contained box, italic muted
@@ -620,15 +776,57 @@ code:not(pre code) {
 
 .cv-entry {
   position:      relative;
-  padding:       1rem 1.25rem 1rem 1.4rem;
-  margin-bottom: 1rem;
+  margin-left:   1.25rem;
+  padding:       1.1rem 1.35rem;
+  margin-bottom: 1.25rem;
   background:    rgba(255, 255, 255, 0.025);
-  border-radius: 8px;
-  border-left:   3px solid #60a5fa;
+  border:        1px solid rgba(96, 165, 250, 0.12);
+  border-radius: 10px;
+  transition:    border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
 }
 
-.cv-entry--award {
-  border-left-color: #f59e0b;
+.cv-entry:hover {
+  border-color: rgba(96, 165, 250, 0.35);
+  box-shadow:   0 4px 18px rgba(96, 165, 250, 0.07);
+  transform:    translateY(-2px);
+}
+
+// Timeline node
+.cv-entry::before {
+  content:       '';
+  position:      absolute;
+  left:          -1.55rem;
+  top:           1.45rem;
+  width:         9px;
+  height:        9px;
+  border-radius: 50%;
+  background:    #60a5fa;
+  box-shadow:    0 0 0 4px rgba(96, 165, 250, 0.15);
+}
+
+// Timeline rail connecting to the next entry
+.cv-entry::after {
+  content:    '';
+  position:   absolute;
+  left:       calc(-1.55rem + 4px);
+  top:        calc(1.45rem + 13px);
+  bottom:     calc(-1.25rem - 13px);
+  width:      1px;
+  background: linear-gradient(rgba(96, 165, 250, 0.35), rgba(96, 165, 250, 0.08));
+}
+
+.cv-entry:last-child::after {
+  display: none;
+}
+
+.cv-entry--award::before {
+  background: #f59e0b;
+  box-shadow: 0 0 0 4px rgba(245, 158, 11, 0.15);
+}
+
+.cv-entry--award:hover {
+  border-color: rgba(245, 158, 11, 0.35);
+  box-shadow:   0 4px 18px rgba(245, 158, 11, 0.07);
 }
 
 .cv-entry-header {
@@ -723,30 +921,6 @@ code:not(pre code) {
     flex-direction: column;
     align-items:    flex-start;
   }
-}
-
-// ── CV Timeline connectors ────────────────────────────────────────────────────
-
-#work-experience .cv-entry,
-#education .cv-entry,
-#grants .cv-entry,
-#awards .cv-entry,
-#service-and-leadership .cv-entry {
-  position: relative;
-}
-
-#work-experience .cv-entry:not(:last-child)::after,
-#education .cv-entry:not(:last-child)::after,
-#grants .cv-entry:not(:last-child)::after,
-#awards .cv-entry:not(:last-child)::after,
-#service-and-leadership .cv-entry:not(:last-child)::after {
-  content:    '';
-  position:   absolute;
-  left:       -1px;
-  bottom:     -1rem;
-  width:      1px;
-  height:     1rem;
-  background: rgba(96, 165, 250, 0.3);
 }
 
 // ── Research Interest Pills ───────────────────────────────────────────────────
@@ -860,12 +1034,25 @@ code:not(pre code) {
   }
 }
 
+@keyframes fadeOnly {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
 @media (prefers-reduced-motion: no-preference) {
-  .cv-entry,
   .pub-card,
   .research-tag,
   #news ul li {
     animation:       fadeSlideUp linear both;
+    animation-timeline: view();
+    animation-range: entry 0% entry 25%;
+  }
+
+  // Opacity-only so the scroll animation's fill doesn't pin `transform`
+  // and block the hover lift on these cards
+  .cv-entry,
+  .csl-bib-body .csl-entry {
+    animation:       fadeOnly linear both;
     animation-timeline: view();
     animation-range: entry 0% entry 25%;
   }

@@ -1,5 +1,7 @@
 ---
-title: Blog
+title: ""
+pagetitle: "Blog – J.D. Cardenas Cartagena"
+title-block-style: none
 author: ""
 listing:
   contents: "index.qmd"
@@ -14,3 +16,13 @@ listing:
   sort: "date desc"
 page-layout: full
 ---
+
+```{=html}
+<header class="page-hero">
+  <p class="page-hero-eyebrow">Writing</p>
+  <h1 class="page-hero-title">Blog</h1>
+  <p class="page-hero-lede">
+    Notes on research, teaching, and life abroad — occasionally in Spanish.
+  </p>
+</header>
+```
