@@ -10,7 +10,7 @@ listing:
   grid-columns: 3
   image-height: "180px"
   date-format: "iso"
-  fields: [image, date, title, description]
+  fields: [image, date, title, description, categories, reading-time]
   filter-ui: [title, date]
   page-size: 9
   sort: "date desc"

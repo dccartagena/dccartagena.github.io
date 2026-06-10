@@ -71,10 +71,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
-  padding-bottom: 0.4rem;
-  border-bottom: 1px solid rgba(96, 165, 250, 0.25);
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+  position:       relative;
+  padding-bottom: 0.55rem;
+  border-bottom:  none;
+  margin-top:     2.25rem;
+  margin-bottom:  1.1rem;
+}
+
+h2::after {
+  content:       '';
+  position:      absolute;
+  left:          0;
+  bottom:        0;
+  width:         56px;
+  height:        3px;
+  border-radius: 2px;
+  background:    linear-gradient(90deg, #60a5fa, #a78bfa);
 }
 
 // ── Links ─────────────────────────────────────────────────────────────────────
@@ -415,8 +427,39 @@ body {
 // ── Inner page headers (CV, Publications, Blog) ───────────────────────────────
 
 .page-hero {
-  padding: 2.5rem 0 0;
-  margin-bottom: 2rem;
+  position:      relative;
+  margin:        2.25rem 0 2.5rem;
+  padding:       2.75rem 2.5rem;
+  border:        1px solid rgba(96, 165, 250, 0.16);
+  border-radius: 16px;
+  background:    radial-gradient(ellipse at top right, rgba(96, 165, 250, 0.09), transparent 60%),
+                 rgba(255, 255, 255, 0.015);
+  overflow:      hidden;
+}
+
+// Same engineering-grid backdrop as the landing hero, anchored top-right
+.page-hero::before {
+  content:  '';
+  position: absolute;
+  inset:    0;
+  background-image:
+    linear-gradient(rgba(96, 165, 250, 0.07) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(96, 165, 250, 0.07) 1px, transparent 1px);
+  background-size: 36px 36px;
+  -webkit-mask-image: radial-gradient(ellipse 80% 110% at 75% 0%, #000 25%, transparent 80%);
+  mask-image:         radial-gradient(ellipse 80% 110% at 75% 0%, #000 25%, transparent 80%);
+  pointer-events: none;
+}
+
+.page-hero > * {
+  position: relative;
+  z-index:  1;
+}
+
+@media (max-width: 768px) {
+  .page-hero {
+    padding: 1.9rem 1.4rem;
+  }
 }
 
 .page-hero-eyebrow {
@@ -453,14 +496,21 @@ body {
   margin-top: 1.4rem;
 }
 
-// Gradient rule closing the header
-.page-hero::after {
-  content:    '';
-  display:    block;
-  height:     1px;
-  margin-top: 1.9rem;
-  background: linear-gradient(90deg, rgba(96, 165, 250, 0.5) 0%,
-                              rgba(167, 139, 250, 0.25) 45%, transparent 90%);
+// Numbered section headings on pages that open with a page-hero (e.g. CV)
+main.content:has(.page-hero) {
+  counter-reset: page-section;
+}
+
+main.content:has(.page-hero) section.level2 > h2::before {
+  counter-increment: page-section;
+  content:           counter(page-section, decimal-leading-zero);
+  font-family:       "JetBrains Mono", monospace;
+  font-size:         0.9rem;
+  font-weight:       500;
+  letter-spacing:    0.08em;
+  color:             #60a5fa;
+  margin-right:      0.7rem;
+  vertical-align:    0.18em;
 }
 
 // ── Cards (blog listing) ──────────────────────────────────────────────────────
@@ -477,6 +527,12 @@ body {
   border-color: rgba(96, 165, 250, 0.35) !important;
   box-shadow:   0 6px 24px rgba(96, 165, 250, 0.08) !important;
   transform:    translateY(-2px);
+}
+
+// Let cards shrink to their content instead of stretching to the tallest
+// card in the row, which left a void between description and date
+.quarto-listing .quarto-grid-item.h-100 {
+  height: auto !important;
 }
 
 // Thumbnail zoom on hover
@@ -511,11 +567,40 @@ body {
   line-height: 1.6;
 }
 
-.quarto-grid-item .listing-date {
+.quarto-grid-item .listing-date,
+.quarto-grid-item .listing-reading-time {
   font-family:    "JetBrains Mono", monospace;
   font-size:      0.72rem;
   letter-spacing: 0.05em;
   color:          #60a5fa;
+}
+
+.quarto-grid-item .card-attribution {
+  margin-top: 0.75rem;
+}
+
+// Category pills on the cards
+.quarto-grid-item .listing-categories {
+  display:    flex;
+  flex-wrap:  wrap;
+  gap:        0.3rem;
+  margin-top: 0.55rem;
+}
+
+.quarto-grid-item .listing-categories .listing-category {
+  font-size:      0.68rem;
+  font-weight:    600;
+  letter-spacing: 0.02em;
+  color:          #93c5fd;
+  border:         1px solid rgba(96, 165, 250, 0.3) !important;
+  border-radius:  100px;
+  padding:        0.12rem 0.55rem;
+  transition:     background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.quarto-grid-item .listing-categories .listing-category:hover {
+  background:   rgba(96, 165, 250, 0.12);
+  border-color: rgba(96, 165, 250, 0.55) !important;
 }
 
 // ── Blog listing: category sidebar & filter controls ──────────────────────────
@@ -603,7 +688,15 @@ body {
 
 // ── Publications / Bibliography ───────────────────────────────────────────────
 
+// Cancel the CSL hanging indent — inside a card the negative text-indent
+// makes the first line of each citation look misaligned
+#refs div.csl-entry {
+  margin-left: 0 !important;
+  text-indent: 0 !important;
+}
+
 .csl-bib-body .csl-entry {
+  position:      relative;
   margin-bottom: 1.1rem;
   padding:       1.25rem 1.5rem;
   background:    rgba(255, 255, 255, 0.025);
@@ -617,6 +710,18 @@ body {
   border-color: rgba(96, 165, 250, 0.35);
   box-shadow:   0 4px 18px rgba(96, 165, 250, 0.07);
   transform:    translateY(-2px);
+}
+
+// Gradient accent bar on the left edge of each entry
+.csl-bib-body .csl-entry::before {
+  content:       '';
+  position:      absolute;
+  left:          0;
+  top:           1.15rem;
+  bottom:        1.15rem;
+  width:         3px;
+  border-radius: 0 2px 2px 0;
+  background:    linear-gradient(rgba(96, 165, 250, 0.7), rgba(167, 139, 250, 0.35));
 }
 
 // Summary (annote) block — clearly contained box, italic muted
