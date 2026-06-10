@@ -1,7 +1,21 @@
 ---
-title: "CV"
+title: ""
+pagetitle: "CV – J.D. Cardenas Cartagena"
+title-block-style: none
 comments: false
 ---
+
+```{=html}
+<header class="page-hero">
+  <p class="page-hero-eyebrow">Curriculum Vitae</p>
+  <h1 class="page-hero-title">Experience &amp; education</h1>
+  <p class="page-hero-lede">
+    A decade across machine learning, control theory, and mechatronics — from autonomous
+    robots in Medellín to safe reinforcement learning research in Norway and AI engineering
+    in The Netherlands.
+  </p>
+</header>
+```
 
 ## Work Experience
 

@@ -53,7 +53,6 @@ format:
     theme:
       - darkly
       - custom.scss
-    css: styles.css
     smooth-scroll: true
     toc: false
 

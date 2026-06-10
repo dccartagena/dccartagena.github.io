@@ -1,5 +1,7 @@
 ---
-title: "Publications"
+title: ""
+pagetitle: "Publications – J.D. Cardenas Cartagena"
+title-block-style: none
 comments: false
 bibliography: publications.bib
 csl: apa-with-annote.csl
@@ -8,8 +10,24 @@ filters:
   - bib-links.lua
 ---
 
-Below is a full list of my publications. For an always up-to-date list, visit my
-[Google Scholar profile](https://scholar.google.com/citations?user=kvdSZLEAAAAJ&hl=en).
+```{=html}
+<header class="page-hero">
+  <p class="page-hero-eyebrow">Research Output</p>
+  <h1 class="page-hero-title">Publications</h1>
+  <p class="page-hero-lede">
+    Peer-reviewed work on safe reinforcement learning, data-driven control, and trustworthy
+    AI for safety-critical systems. For an always up-to-date list, see my profiles below.
+  </p>
+  <div class="page-hero-actions">
+    <a class="hero-btn hero-btn-primary" href="https://scholar.google.com/citations?user=kvdSZLEAAAAJ" target="_blank" rel="noopener">
+      <i class="bi bi-mortarboard-fill"></i>&nbsp; Google Scholar
+    </a>
+    <a class="hero-btn hero-btn-ghost" href="https://orcid.org/0000-0001-9718-6929" target="_blank" rel="noopener">
+      <i class="bi bi-person-badge-fill"></i>&nbsp; ORCID
+    </a>
+  </div>
+</header>
+```
 
 ::: {#refs}
 :::
